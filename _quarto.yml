@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: courses/modern-physics/index.qmd
+      - href: courses/modern-physics/
         text: Modern Physics
 
 format:
