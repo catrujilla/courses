@@ -8,11 +8,11 @@ Most of the materials are continuously updated throughout each semester and are 
 
 ## About Me
 
-I am a physicist and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full-Time Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optics, and engineering, and coordinate the Master’s program in Applied Physics.
+I am a physicist and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optical instrumentation, and engineering, and coordinate the Master’s program in Applied Physics.
 
 I have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.
 
-Additionally, I served as Full-Time Lecturer at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision.
+Additionally, I served as Full-Time professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision.
 
 ## Topics Covered
 
