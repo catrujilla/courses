@@ -4,35 +4,10 @@ title: "Modern Physics"
 
 # Modern Physics
 
-Welcome to the Modern Physics course page.
+This page contains the course materials for Modern Physics, organized by semester.
 
-## Course description
+## Semesters
 
-This course introduces the main ideas of modern physics, including special relativity, quantum mechanics, atomic physics, and selected applications.
-
-## Course materials
-
-- Syllabus
-- Lecture slides
-- Problem sets
-- Laboratory guides
-- Additional readings
-
-## Topics
-
-1. Special relativity
-2. Blackbody radiation
-3. Photoelectric effect
-4. Compton effect
-5. Introduction to quantum mechanics
-6. Schrödinger equation
-7. Hydrogen atom
-8. Atomic and nuclear physics
-
-## Downloads
-
-Materials will be uploaded progressively during the semester.
-
-## Lecture slides
-
-- [Introduction to Special Relativity](slides/UNIDAD 1. CinematicaRelativista.pdf)
+- [2026-1](2026-1/)
+- [2025-2](2025-2/)
+- [2025-1](2025-1/)

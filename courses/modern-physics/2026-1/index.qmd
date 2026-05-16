@@ -1,0 +1,21 @@
+---
+title: "Modern Physics 2026-1"
+---
+
+# Modern Physics 2026-1
+
+## Course materials
+
+- Syllabus
+- Lecture slides
+- Problem sets
+- Laboratory guides
+- Derivations
+
+## Units
+
+1. Special relativity
+2. Quantum foundations
+3. Schrödinger equation
+4. Hydrogen atom
+5. Atomic and nuclear physics
