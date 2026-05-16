@@ -41,6 +41,6 @@ Introduction to the fundamental concepts of modern physics, including special re
 
 ## General Documents
 
-- [Course Presentation](docs/0. Presentacion físicamoderna 2025-1.pdf)
-- [Class Schedule](docs/Programacion de clases 2025-1.pdf)
-- [Lab Schedule](docs/Programacion de practicas 2025-1.pdf)
+- [Course Presentation](docs/0. Presentacion físicamoderna 2024-2.pdf)
+- [Class Schedule](docs/Programacion de clases 2024-2.pdf)
+- [Lab Schedule](docs/Programacion de practicas 2024-2.pdf)
