@@ -1,24 +1,22 @@
 ---
-title: "Carlos Trujillo"
+title: "Professor Carlos Trujillo courses"
 ---
-
-# Computational Imaging and Optics
 
 Welcome to my course website.
 
 ## Current Courses
 
-- Modern Physics
+- [Modern Physics](courses/modern-physics/)
 - Fourier Optics
 - Digital Holography
 - Technology Management
 
-## Resources
+## Resources in each course
 
 - Lecture slides
-- MATLAB code
+- MATLAB codes
 - Python scripts
 - Datasets
 - Papers
+- And other specific files depending on the course
 
-[Modern Physics](courses/modern-physics/)

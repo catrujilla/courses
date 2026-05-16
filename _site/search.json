@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Carlos Trujillo",
+    "title": "Professor Carlos Trujillo courses",
     "section": "",
-    "text": "Welcome to my course website.\n\n\n\nModern Physics\nFourier Optics\nDigital Holography\nTechnology Management\n\n\n\n\n\nLecture slides\nMATLAB code\nPython scripts\nDatasets\nPapers\n\nModern Physics"
+    "text": "Welcome to my course website."
   },
   {
     "objectID": "about.html",
@@ -16,16 +16,16 @@
   {
     "objectID": "index.html#current-courses",
     "href": "index.html#current-courses",
-    "title": "Carlos Trujillo",
-    "section": "",
-    "text": "Modern Physics\nFourier Optics\nDigital Holography\nTechnology Management"
+    "title": "Professor Carlos Trujillo courses",
+    "section": "Current Courses",
+    "text": "Current Courses\n\nModern Physics\nFourier Optics\nDigital Holography\nTechnology Management"
   },
   {
     "objectID": "index.html#resources",
     "href": "index.html#resources",
     "title": "Carlos Trujillo",
     "section": "",
-    "text": "Lecture slides\nMATLAB code\nPython scripts\nDatasets\nPapers\n\nModern Physics"
+    "text": "Lecture slides\nMATLAB code\nPython scripts\nDatasets\nPapers"
   },
   {
     "objectID": "modern-physics/index.html",
@@ -74,7 +74,7 @@
     "href": "courses/modern-physics/index.html",
     "title": "Modern Physics",
     "section": "",
-    "text": "This page contains the course materials for Modern Physics, organized by semester.\n\n\n\n2026-1\n2025-2\n2025-1"
+    "text": "This page contains the course materials for Modern Physics, organized by semester."
   },
   {
     "objectID": "courses/modern-physics/index.html#course-description",
@@ -115,15 +115,15 @@
     "objectID": "courses/modern-physics/index.html#semesters",
     "href": "courses/modern-physics/index.html#semesters",
     "title": "Modern Physics",
-    "section": "",
-    "text": "2026-1\n2025-2\n2025-1"
+    "section": "Semesters",
+    "text": "Semesters\n\n2026-1\n2025-2\n2025-1"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html",
     "href": "courses/modern-physics/2026-1/index.html",
     "title": "Modern Physics 2026-1",
     "section": "",
-    "text": "Syllabus\nLecture slides\nProblem sets\nLaboratory guides\nDerivations\n\n\n\n\n\nSpecial relativity\nQuantum foundations\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics"
+    "text": "Syllabus\nLecture slides\nProblem sets\nLaboratory guides\nDerivations"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html#course-materials",
@@ -136,7 +136,14 @@
     "objectID": "courses/modern-physics/2026-1/index.html#units",
     "href": "courses/modern-physics/2026-1/index.html#units",
     "title": "Modern Physics 2026-1",
-    "section": "",
-    "text": "Special relativity\nQuantum foundations\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics"
+    "section": "Units",
+    "text": "Units\n\nSpecial relativity\nQuantum foundations\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics"
+  },
+  {
+    "objectID": "index.html#resources-in-each-course",
+    "href": "index.html#resources-in-each-course",
+    "title": "Professor Carlos Trujillo courses",
+    "section": "Resources in each course",
+    "text": "Resources in each course\n\nLecture slides\nMATLAB codes\nPython scripts\nDatasets\nPapers\nAnd other specific files depending on the course"
   }
 ]

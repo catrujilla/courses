@@ -2,8 +2,6 @@
 title: "Modern Physics"
 ---
 
-# Modern Physics
-
 This page contains the course materials for Modern Physics, organized by semester.
 
 ## Semesters

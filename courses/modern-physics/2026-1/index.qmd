@@ -2,8 +2,6 @@
 title: "Modern Physics 2026-1"
 ---
 
-# Modern Physics 2026-1
-
 ## Course materials
 
 - Syllabus
