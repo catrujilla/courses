@@ -1,0 +1,51 @@
+---
+title: "Modern Physics 2024-1"
+---
+
+## Course Description
+
+Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.
+
+## General Documents
+
+- [Course Presentation](docs/0. Presentacion físicamoderna 2024-1.pdf)
+- [Class Schedule](docs/Programacion de clases 2024-1.pdf)
+- [Lab Schedule](docs/Programacion de practicas 2024-1.pdf)
+
+## Reference Textbook
+
+The course follows the textbook *Modern Physics* (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities.
+
+## Lecture Slides
+
+- [Unit 1. Introduction to Special Relativity](slides/UNIDAD 1. CinematicaRelativista.pdf)
+- [Unit 2. Relativistic Dynamics](slides/UNIDAD 2. DinámicaRelativista.pdf)
+- [Unit 3. Blackbody Radiation](slides/UNIDAD 3. RadiaciónCuerpoNegro.pdf)
+- [Unit 4. Quantum Theory of Light](slides/UNIDAD 4. Teoría Cuántica de la Luz.pdf)
+- [Unit 5. Corpuscular Nature of Matter](slides/UNIDAD 5. Naturaleza corpuscular de la materia.pdf)
+- [Unit 6. Wave Properties of Matter](slides/UNIDAD 6. Propiedades ondulatorias de la materia.pdf)
+- [Unit 7. Wave Quantum Mechanics](slides/UNIDAD 7. Mecánica Cuántica Ondulatoria.pdf)
+- [Unit 8. Quantum Mechanics in Three Dimensions](slides/UNIDAD 8. Mecánica Cuántica en 3 dimensiones.pdf)
+- [Unit 9. Atomic Structure](slides/UNIDAD 9. Estructura Atómica.pdf)
+
+## Lab Guides
+
+- [Lab 1. Michelson Interferometer](lab-guides/Practica 1. Interferometro de Michelson.pdf)
+- [Lab 2b. Speed of Light](lab-guides/Practica 2b. Velocidad de la luz.pdf)
+- [Lab 3. Blackbody Radiation](lab-guides/Practica 3. Radiacion de cuerpo negro.pdf)
+- [Lab 4. Photoelectric Effect](lab-guides/Practica 4. Efecto fotoelectrico.pdf)
+- [Lab 5b. Millikan Apparatus](lab-guides/Practica 5b. Aparato de Millikan.pdf)
+- [Lab 6a. Franck-Hertz Experiment with Hg-tube](lab-guides/Practica 6a. Franck-Hertz experiment with Hg-tube.pdf)
+- [Lab 7. Heisenberg Uncertainty Principle](lab-guides/Practica 7. Principio de incertidumbre de Heisenberg.pdf)
+- [Lab 8b. Electron Diffraction](lab-guides/Practica 8b. Difraccion de electrones.pdf)
+- [Lab 9. Fine Structure](lab-guides/Practica 9. Estructura fina.pdf)
+
+## Exams and Practice Exercises
+
+- [Partial Exam 1](exercises/Parcial 1.pdf)
+- [Partial Exam 2](exercises/Parcial 2.pdf)
+- [Partial Exam 3](exercises/Parcial 3.pdf)
+
+## Interesting Readings
+
+- [The 1919 Measurement of the Deflection of Light](readings/will2015.pdf)
