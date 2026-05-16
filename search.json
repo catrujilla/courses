@@ -11,7 +11,7 @@
     "href": "courses/modern-physics/2026-1/index.html",
     "title": "Modern Physics 2026-1",
     "section": "",
-    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.\nCourse taught in Universidad EAFIT."
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.\nCourse taught in Universidad EAFIT. Instructor: Carlos Trujillo @2026"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html#main-docs",
@@ -40,6 +40,13 @@
     "title": "Modern Physics 2026-1",
     "section": "Numerical Derivations and Exercises",
     "text": "Numerical Derivations and Exercises\n\nCentral Force Problem Derivation (LaTeX)\nCentral Force Problem Derivation\nSpace-Time Invariance Derivation\nRayleigh-Jeans Energy Density Function\nPhotoelectric Effect Exercise\nPlanck Average Energy per Resonator\nQuantum Tunneling Transmission Coefficient"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#selected-exercises",
+    "href": "courses/modern-physics/2026-1/index.html#selected-exercises",
+    "title": "Modern Physics 2026-1",
+    "section": "Selected Exercises",
+    "text": "Selected Exercises\n\nMidterm 1\nMidterm 2"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html#interesting-readings",
