@@ -158,7 +158,112 @@
     "href": "courses/modern-physics/index.html#semesters",
     "title": "Modern Physics",
     "section": "Semesters",
-    "text": "Semesters\n\n2026-1\n2025-2\n2025-1"
+    "text": "Semesters\n\n2026-1\n2025-2\n2025-1\n2024-2\n2024-1"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html",
+    "href": "courses/modern-physics/2024-2/index.html",
+    "title": "Modern Physics 2024-2",
+    "section": "",
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations."
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html#course-description",
+    "href": "courses/modern-physics/2024-2/index.html#course-description",
+    "title": "Modern Physics 2024-2",
+    "section": "",
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations."
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html#lecture-slides",
+    "href": "courses/modern-physics/2024-2/index.html#lecture-slides",
+    "title": "Modern Physics 2024-2",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nUnit 1. Introduction to Special Relativity\nUnit 2. Relativistic Dynamics\nUnit 3. Blackbody Radiation\nUnit 4. Quantum Theory of Light\nUnit 5. Corpuscular Nature of Matter\nUnit 6. Wave Properties of Matter\nUnit 7. Wave Quantum Mechanics\nUnit 8. Quantum Mechanics in Three Dimensions\nUnit 9. Atomic Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html#lab-guides",
+    "href": "courses/modern-physics/2024-2/index.html#lab-guides",
+    "title": "Modern Physics 2024-2",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab 1. Michelson Interferometer\nLab 2b. Speed of Light\nLab 3. Blackbody Radiation\nLab 4. Photoelectric Effect\nLab 5b. Millikan Apparatus\nLab 6a. Franck-Hertz Experiment with Hg-tube\nLab 7. Heisenberg Uncertainty Principle\nLab 8b. Electron Diffraction\nLab 9. Fine Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html#exams-and-practice-exercises",
+    "href": "courses/modern-physics/2024-2/index.html#exams-and-practice-exercises",
+    "title": "Modern Physics 2024-2",
+    "section": "Exams and Practice Exercises",
+    "text": "Exams and Practice Exercises\n\nPartial Exam 1\nPartial Exam 2"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html#interesting-readings",
+    "href": "courses/modern-physics/2024-2/index.html#interesting-readings",
+    "title": "Modern Physics 2024-2",
+    "section": "Interesting Readings",
+    "text": "Interesting Readings\n\nThe 1919 Measurement of the Deflection of Light"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-2/index.html#general-documents",
+    "href": "courses/modern-physics/2024-2/index.html#general-documents",
+    "title": "Modern Physics 2024-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Presentation\nClass Schedule\nLab Schedule"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html",
+    "href": "courses/modern-physics/2024-1/index.html",
+    "title": "Modern Physics 2024-1",
+    "section": "",
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations."
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#course-description",
+    "href": "courses/modern-physics/2024-1/index.html#course-description",
+    "title": "Modern Physics 2024-1",
+    "section": "",
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations."
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#general-documents",
+    "href": "courses/modern-physics/2024-1/index.html#general-documents",
+    "title": "Modern Physics 2024-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Presentation\nClass Schedule\nLab Schedule"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#reference-textbook",
+    "href": "courses/modern-physics/2024-1/index.html#reference-textbook",
+    "title": "Modern Physics 2024-1",
+    "section": "Reference Textbook",
+    "text": "Reference Textbook\nThe course follows the textbook Modern Physics (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities."
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#lecture-slides",
+    "href": "courses/modern-physics/2024-1/index.html#lecture-slides",
+    "title": "Modern Physics 2024-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nUnit 1. Introduction to Special Relativity\nUnit 2. Relativistic Dynamics\nUnit 3. Blackbody Radiation\nUnit 4. Quantum Theory of Light\nUnit 5. Corpuscular Nature of Matter\nUnit 6. Wave Properties of Matter\nUnit 7. Wave Quantum Mechanics\nUnit 8. Quantum Mechanics in Three Dimensions\nUnit 9. Atomic Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#lab-guides",
+    "href": "courses/modern-physics/2024-1/index.html#lab-guides",
+    "title": "Modern Physics 2024-1",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab 1. Michelson Interferometer\nLab 2b. Speed of Light\nLab 3. Blackbody Radiation\nLab 4. Photoelectric Effect\nLab 5b. Millikan Apparatus\nLab 6a. Franck-Hertz Experiment with Hg-tube\nLab 7. Heisenberg Uncertainty Principle\nLab 8b. Electron Diffraction\nLab 9. Fine Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#exams-and-practice-exercises",
+    "href": "courses/modern-physics/2024-1/index.html#exams-and-practice-exercises",
+    "title": "Modern Physics 2024-1",
+    "section": "Exams and Practice Exercises",
+    "text": "Exams and Practice Exercises\n\nPartial Exam 1\nPartial Exam 2\nPartial Exam 3"
+  },
+  {
+    "objectID": "courses/modern-physics/2024-1/index.html#interesting-readings",
+    "href": "courses/modern-physics/2024-1/index.html#interesting-readings",
+    "title": "Modern Physics 2024-1",
+    "section": "Interesting Readings",
+    "text": "Interesting Readings\n\nThe 1919 Measurement of the Deflection of Light"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html",
