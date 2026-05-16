@@ -1,0 +1,58 @@
+---
+title: "Modern Physics 2025-1"
+---
+
+Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.
+
+## General Documents
+
+- [Course Presentation](docs/0. Presentacion físicamoderna 2025-1.pdf)
+- [Class Schedule](docs/Programacion de clases 2025-1.pdf)
+- [Lab Schedule](docs/Programacion de practicas 2025-1.pdf)
+
+## Reference Textbook
+
+The course follows the textbook *Modern Physics* (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities.
+
+## Lecture Slides
+
+- [Unit 1. Introduction to Special Relativity](slides/UNIDAD 1. CinematicaRelativista.pdf)
+- [Unit 2. Relativistic Dynamics](slides/UNIDAD 2. DinámicaRelativista.pdf)
+- [Unit 3. Quantum Theory of Light](slides/UNIDAD 3. Teoría Cuántica de la Luz.pdf)
+- [Unit 4. Corpuscular Nature of Matter](slides/UNIDAD 4. Naturaleza corpuscular de la materia.pdf)
+- [Unit 5. Wave Properties of Matter](slides/UNIDAD 5. Propiedades ondulatorias de la materia.pdf)
+- [Unit 6. Wave Quantum Mechanics](slides/UNIDAD 6. Mecánica Cuántica Ondulatoria.pdf)
+- [Unit 7. Quantum Mechanics in Three Dimensions](slides/UNIDAD 7. Mecánica Cuántica en 3 dimensiones.pdf)
+- [Unit 8. Atomic Structure](slides/UNIDAD 8. Estructura Atómica.pdf)
+
+## Lab Guides
+
+- [Lab 1. Michelson Interferometer](lab-guides/Practica 1. Interferometro de Michelson.pdf)
+- [Lab 2. Speed of Light](lab-guides/Practica 2. Velocidad de la luz.pdf)
+- [Lab 3. Blackbody Radiation](lab-guides/Practica 3. Radiacion de cuerpo negro.pdf)
+- [Lab 4. Photoelectric Effect](lab-guides/Practica 4. Efecto fotoelectrico.pdf)
+- [Lab 5. Millikan Apparatus](lab-guides/Practica 5. Aparato de Milikan.pdf)
+- [Lab 6. Franck-Hertz Experiment](lab-guides/Practica 6. Franck-Hertz.pdf)
+- [Lab 7. Heisenberg Uncertainty Principle](lab-guides/Practica 7. Principio de incertidumbre de Heisenberg.pdf)
+- [Lab 8. Electron Diffraction](lab-guides/Practica 8. Difraccion de electrones.pdf)
+- [Lab 9. Fine Structure](lab-guides/Practica 9. Estructura fina.pdf)
+
+## Derivations and Exercises
+
+- [Central Force Problem Derivation](derivations/CentralForceProblem_Derivation.pdf)
+- [Rayleigh-Jeans Energy Density Function](derivations/energy_density_function_RayleighJeans.pdf)
+- [Photoelectric Effect Exercise](derivations/PhotoElectricEffect_exercise.pdf)
+- [Planck Average Energy per Resonator](derivations/Planck_average_ebergy_resonator.pdf)
+- [Quantum Tunneling Transmission Coefficient](derivations/Trasmission_coeff_Tunneling.pdf)
+
+## Exams and Practice Exercises
+
+- [Partial Exam 1](exercises/Parcial 1.docx)
+- [Partial Exam 2](exercises/Parcial 2.pdf)
+
+## Interesting Readings
+
+- [James Jeans’ Almost-Atomic Theory](readings/20-22-lighttouch (1).pdf)
+- [The Quantum Theory of Radiation — Albert Einstein (1917)](readings/A.Einstein.pdf)
+- [On the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927)](readings/Werner_Heisenberg_1927.pdf)
+- [The 1919 Measurement of the Deflection of Light](readings/will2015.pdf)
