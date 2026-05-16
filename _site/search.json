@@ -123,7 +123,7 @@
     "href": "courses/modern-physics/2026-1/index.html",
     "title": "Modern Physics 2026-1",
     "section": "",
-    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.\nCourse taught in Universidad EAFIT."
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.\nCourse taught in Universidad EAFIT. Instructor: Carlos Trujillo @2026"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html#course-materials",
@@ -215,5 +215,12 @@
     "title": "Modern Physics 2026-1",
     "section": "Interesting Readings",
     "text": "Interesting Readings\n\n1900–1925: The Breakdown of Physics, Prof. Roman Castañeda — Historical overview of the scientific revolution that led to modern physics and quantum mechanics.\nJames Jeans’ Almost-Atomic Theory — A historical article discussing James Jeans’ early ideas about atomic structure before Bohr’s model.\nThe Quantum Theory of Radiation — Albert Einstein (1917) — Einstein’s foundational paper introducing the concepts of spontaneous and stimulated emission.\nOn the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927) — Original work presenting the uncertainty principle and the conceptual foundations of quantum mechanics.\nThe 1919 Measurement of the Deflection of Light — Historical review of the famous eclipse experiment that confirmed Einstein’s general relativity."
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#selected-exercises",
+    "href": "courses/modern-physics/2026-1/index.html#selected-exercises",
+    "title": "Modern Physics 2026-1",
+    "section": "Selected Exercises",
+    "text": "Selected Exercises\n\nMidterm 1\nMidterm 2"
   }
 ]

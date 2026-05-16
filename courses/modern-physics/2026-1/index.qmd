@@ -4,7 +4,7 @@ title: "Modern Physics 2026-1"
 
 Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.
 
-Course taught in Universidad EAFIT.
+Course taught in Universidad EAFIT. Instructor: Carlos Trujillo @2026
 
 ## Main Docs
 - [Course presentation](docs/0. Presentacion físicamoderna 2026-1.pdf)
@@ -43,6 +43,11 @@ Course taught in Universidad EAFIT.
 - [Photoelectric Effect Exercise](derivations/PhotoElectricEffect_exercise.pdf)
 - [Planck Average Energy per Resonator](derivations/Planck_average_ebegy_resonator.pdf)
 - [Quantum Tunneling Transmission Coefficient](derivations/Transmission_coeff_Tunneling.pdf)
+
+## Selected Exercises
+
+- [Midterm 1](exercises/Parcial 1.pdf)
+- [Midterm 2](exercises/Parcial 2.pdf)
 
 ## Interesting Readings
 
