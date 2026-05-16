@@ -1,0 +1,22 @@
+---
+title: "Carlos Trujillo"
+---
+
+# Computational Imaging and Optics
+
+Welcome to my course website.
+
+## Current Courses
+
+- Modern Physics
+- Fourier Optics
+- Digital Holography
+- Technology Management
+
+## Resources
+
+- Lecture slides
+- MATLAB code
+- Python scripts
+- Datasets
+- Papers
