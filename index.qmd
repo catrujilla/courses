@@ -4,14 +4,6 @@ title: "Professor Carlos Trujillo courses"
 
 Welcome to my course website.
 
-## About Me
-
-I am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optics, and engineering, and coordinate the Master’s program in Applied Physics. 
-
-I have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.
-
-Additionally, I served as Full-Time Professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision.
-
 ## Courses
 
 - [Modern Physics](courses/modern-physics/)
@@ -28,3 +20,10 @@ Additionally, I served as Full-Time Professor at Instituto Tecnológico Metropol
 - Papers
 - And other specific files depending on the course
 
+## About Me
+
+I am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optics, and engineering, and coordinate the Master’s program in Applied Physics. 
+
+I have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.
+
+Additionally, I served as Full-Time Professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision.
