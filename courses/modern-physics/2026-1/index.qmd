@@ -44,6 +44,18 @@ Course taught in Universidad EAFIT.
 - [Planck Average Energy per Resonator](derivations/Planck_average_ebegy_resonator.pdf)
 - [Quantum Tunneling Transmission Coefficient](derivations/Transmission_coeff_Tunneling.pdf)
 
+## Interesting Readings
+
+- [1900–1925: The Breakdown of Physics, Prof. Roman Castañeda](readings/17+3297+carta+a+la+editora.pdf) — Historical overview of the scientific revolution that led to modern physics and quantum mechanics.
+
+- [James Jeans’ Almost-Atomic Theory](readings/20-22-lighttouch%20(1).pdf) — A historical article discussing James Jeans’ early ideas about atomic structure before Bohr’s model.
+
+- [The Quantum Theory of Radiation — Albert Einstein (1917)](readings/A.Einstein.pdf) — Einstein’s foundational paper introducing the concepts of spontaneous and stimulated emission.
+
+- [On the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927)](readings/Werner_Heisenberg_1927.pdf) — Original work presenting the uncertainty principle and the conceptual foundations of quantum mechanics.
+
+- [The 1919 Measurement of the Deflection of Light](readings/will2015.pdf) — Historical review of the famous eclipse experiment that confirmed Einstein’s general relativity.
+
 ## Reference Textbook
 
 The course follows the textbook *Modern Physics* (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities.
