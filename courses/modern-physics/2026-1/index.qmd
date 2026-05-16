@@ -2,22 +2,20 @@
 title: "Modern Physics 2026-1"
 ---
 
-## Course materials
+Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.
 
-- Syllabus
-- Lecture slides
-- Problem sets
-- Laboratory guides
-- Derivations
+## Main Docs
+- [Course presentation](docs/0. Presentacion físicamoderna 2026-1.pdf)
+- [Lecture Schedule](docs/Programacion de clases 2026-1.pdf)
+- [Labs Schedule](docs/Programacion de practicas 2026-1.pdf)
 
-## Units
-
-1. Special relativity
-2. Quantum foundations
-3. Schrödinger equation
-4. Hydrogen atom
-5. Atomic and nuclear physics
-
-## Lecture slides
+## Lecture slides (per unit)
 
 - [Introduction to Special Relativity](slides/UNIDAD 1. CinematicaRelativista.pdf)
+- [Relativistic Dynamics](slides/UNIDAD 2. DinámicaRelativistaB.pdf)
+- [Quantum Theory of Light](slides/UNIDAD 3. Teoría Cuántica de la Luz.pdf)
+- [Corpuscular Nature of Matter](slides/UNIDAD 4. Naturaleza corpuscular de la materia.pdf)
+- [Wave Properties of Matter](slides/UNIDAD 5. Propiedades ondulatorias de la materia.pdf)
+- [Wave Quantum Mechanics](slides/UNIDAD 6. Mecánica Cuántica Ondulatoria.pdf)
+- [Quantum Mechanics in Three Dimensions](slides/UNIDAD 7. Mecánica Cuántica en 3 dimensiones.pdf)
+- [Atomic Structure](slides/UNIDAD 8. Estructura Atómica.pdf)
