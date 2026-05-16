@@ -21,3 +21,29 @@ Course taught in Universidad EAFIT.
 - [Wave Quantum Mechanics](slides/UNIDAD 6. Mecánica Cuántica Ondulatoria.pdf)
 - [Quantum Mechanics in Three Dimensions](slides/UNIDAD 7. Mecánica Cuántica en 3 dimensiones.pdf)
 - [Atomic Structure](slides/UNIDAD 8. Estructura Atómica.pdf)
+
+## Lab guides
+
+- [Lab 1. Michelson Interferometer](lab-guides/Practica 1. Interferometro de Michelson.pdf)
+- [Lab 2. Speed of Light](lab-guides/Practica 2. Velocidad de la luz.pdf)
+- [Lab 3. Blackbody Radiation](lab-guides/Practica 3. Radiacion de cuerpo negro.pdf)
+- [Lab 4. Photoelectric Effect](lab-guides/Practica 4. Efecto fotoelectrico.pdf)
+- [Lab 5. Millikan Apparatus](lab-guides/Practica 5. Aparato de Milikan.pdf)
+- [Lab 6. Franck-Hertz Experiment](lab-guides/Practica 6. Franck-Hertz.pdf)
+- [Lab 7. Heisenberg Uncertainty Principle](lab-guides/Practica 7. Principio de incertidumbre de Heisenberg.pdf)
+- [Lab 8. Electron Diffraction](lab-guides/Practica 8. Difraccion de electrones.pdf)
+- [Lab 9. Fine Structure](lab-guides/Practica 9. Estructura fina.pdf)
+
+## Numerical Derivations and Exercises
+
+- [Central Force Problem Derivation (LaTeX)](derivations/CentralForceProblem_Derivation_latex.pdf)
+- [Central Force Problem Derivation](derivations/CentralForceProblem_Derivation.pdf)
+- [Space-Time Invariance Derivation](derivations/Derivación_InvariabilidadSpacioTIempo.pdf)
+- [Rayleigh-Jeans Energy Density Function](derivations/energy_density_function_RayleighBeans.pdf)
+- [Photoelectric Effect Exercise](derivations/PhotoElectricEffect_exercise.pdf)
+- [Planck Average Energy per Resonator](derivations/Planck_average_ebegy_resonator.pdf)
+- [Quantum Tunneling Transmission Coefficient](derivations/Transmission_coeff_Tunneling.pdf)
+
+## Reference Textbook
+
+The course follows the textbook *Modern Physics* (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities.
