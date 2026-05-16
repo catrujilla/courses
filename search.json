@@ -11,28 +11,21 @@
     "href": "courses/modern-physics/2026-1/index.html",
     "title": "Modern Physics 2026-1",
     "section": "",
-    "text": "Syllabus\nLecture slides\nProblem sets\nLaboratory guides\nDerivations"
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations."
   },
   {
-    "objectID": "courses/modern-physics/2026-1/index.html#course-materials",
-    "href": "courses/modern-physics/2026-1/index.html#course-materials",
+    "objectID": "courses/modern-physics/2026-1/index.html#main-docs",
+    "href": "courses/modern-physics/2026-1/index.html#main-docs",
     "title": "Modern Physics 2026-1",
-    "section": "",
-    "text": "Syllabus\nLecture slides\nProblem sets\nLaboratory guides\nDerivations"
+    "section": "Main Docs",
+    "text": "Main Docs\n\nCourse presentation\nLecture Schedule\nLabs Schedule"
   },
   {
-    "objectID": "courses/modern-physics/2026-1/index.html#units",
-    "href": "courses/modern-physics/2026-1/index.html#units",
+    "objectID": "courses/modern-physics/2026-1/index.html#lecture-slides-per-unit",
+    "href": "courses/modern-physics/2026-1/index.html#lecture-slides-per-unit",
     "title": "Modern Physics 2026-1",
-    "section": "Units",
-    "text": "Units\n\nSpecial relativity\nQuantum foundations\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics"
-  },
-  {
-    "objectID": "courses/modern-physics/2026-1/index.html#lecture-slides",
-    "href": "courses/modern-physics/2026-1/index.html#lecture-slides",
-    "title": "Modern Physics 2026-1",
-    "section": "Lecture slides",
-    "text": "Lecture slides\n\nIntroduction to Special Relativity"
+    "section": "Lecture slides (per unit)",
+    "text": "Lecture slides (per unit)\n\nIntroduction to Special Relativity\nRelativistic Dynamics\nQuantum Theory of Light\nCorpuscular Nature of Matter\nWave Properties of Matter\nWave Quantum Mechanics\nQuantum Mechanics in Three Dimensions\nAtomic Structure"
   },
   {
     "objectID": "courses/modern-physics/index.html",
