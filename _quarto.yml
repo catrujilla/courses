@@ -9,7 +9,7 @@ website:
         text: Home
       - href: courses/modern-physics/
         text: Modern Physics
-
+        
 format:
   html:
     theme:
