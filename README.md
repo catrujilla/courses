@@ -1,3 +1,5 @@
+## Description
+
 This website was created to provide open and free access to the academic materials used in the courses I teach in physics, optical instrumentation, engineering, and applied sciences.
 
 The site includes lecture slides, laboratory guides, derivations, exercises, readings, and additional resources organized by course and semester. Its main purpose is to support students during their learning process and to promote accessible scientific education.
