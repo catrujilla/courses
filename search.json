@@ -7,6 +7,48 @@
     "text": "About this site"
   },
   {
+    "objectID": "courses/modern-physics/index.html",
+    "href": "courses/modern-physics/index.html",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "Welcome to the Modern Physics course page.\n\n\nThis course introduces the main ideas of modern physics, including special relativity, quantum mechanics, atomic physics, and selected applications.\n\n\n\n\nSyllabus\nLecture slides\nProblem sets\nLaboratory guides\nAdditional readings\n\n\n\n\n\nSpecial relativity\nBlackbody radiation\nPhotoelectric effect\nCompton effect\nIntroduction to quantum mechanics\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics\n\n\n\n\nMaterials will be uploaded progressively during the semester.\n\n\n\n\nIntroduction to Special Relativity"
+  },
+  {
+    "objectID": "courses/modern-physics/index.html#course-description",
+    "href": "courses/modern-physics/index.html#course-description",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "This course introduces the main ideas of modern physics, including special relativity, quantum mechanics, atomic physics, and selected applications."
+  },
+  {
+    "objectID": "courses/modern-physics/index.html#course-materials",
+    "href": "courses/modern-physics/index.html#course-materials",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "Syllabus\nLecture slides\nProblem sets\nLaboratory guides\nAdditional readings"
+  },
+  {
+    "objectID": "courses/modern-physics/index.html#topics",
+    "href": "courses/modern-physics/index.html#topics",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "Special relativity\nBlackbody radiation\nPhotoelectric effect\nCompton effect\nIntroduction to quantum mechanics\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics"
+  },
+  {
+    "objectID": "courses/modern-physics/index.html#downloads",
+    "href": "courses/modern-physics/index.html#downloads",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "Materials will be uploaded progressively during the semester."
+  },
+  {
+    "objectID": "courses/modern-physics/index.html#lecture-slides",
+    "href": "courses/modern-physics/index.html#lecture-slides",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "Introduction to Special Relativity"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Carlos Trujillo",
@@ -26,47 +68,5 @@
     "title": "Carlos Trujillo",
     "section": "",
     "text": "Lecture slides\nMATLAB code\nPython scripts\nDatasets\nPapers"
-  },
-  {
-    "objectID": "modern-physics/index.html",
-    "href": "modern-physics/index.html",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "Welcome to the Modern Physics course page.\n\n\nThis course introduces the main ideas of modern physics, including special relativity, quantum mechanics, atomic physics, and selected applications.\n\n\n\n\nSyllabus\nLecture slides\nProblem sets\nLaboratory guides\nAdditional readings\n\n\n\n\n\nSpecial relativity\nBlackbody radiation\nPhotoelectric effect\nCompton effect\nIntroduction to quantum mechanics\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics\n\n\n\n\nMaterials will be uploaded progressively during the semester.\n\n\n\n\nIntroduction to Special Relativity"
-  },
-  {
-    "objectID": "modern-physics/index.html#course-description",
-    "href": "modern-physics/index.html#course-description",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "This course introduces the main ideas of modern physics, including special relativity, quantum mechanics, atomic physics, and selected applications."
-  },
-  {
-    "objectID": "modern-physics/index.html#course-materials",
-    "href": "modern-physics/index.html#course-materials",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "Syllabus\nLecture slides\nProblem sets\nLaboratory guides\nAdditional readings"
-  },
-  {
-    "objectID": "modern-physics/index.html#topics",
-    "href": "modern-physics/index.html#topics",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "Special relativity\nBlackbody radiation\nPhotoelectric effect\nCompton effect\nIntroduction to quantum mechanics\nSchrödinger equation\nHydrogen atom\nAtomic and nuclear physics"
-  },
-  {
-    "objectID": "modern-physics/index.html#downloads",
-    "href": "modern-physics/index.html#downloads",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "Materials will be uploaded progressively during the semester."
-  },
-  {
-    "objectID": "modern-physics/index.html#lecture-slides",
-    "href": "modern-physics/index.html#lecture-slides",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "Introduction to Special Relativity"
   }
 ]
