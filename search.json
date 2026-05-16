@@ -28,74 +28,60 @@
     "text": "Contact\nCarlos Alejandro Trujillo Anaya Universidad EAFIT Medellín, Colombia\nInstitutional web page:\nhttps://www.eafit.edu.co/nuestros-profesores/carlos-alejandro-trujillo-anaya\nGoogle Scholar site:\nhttps://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en&oi=ao\nGitHub Repository:\nhttps://github.com/catrujilla/courses\n\nThis website is built using Quarto and GitHub Pages."
   },
   {
-    "objectID": "courses/modern-physics/2026-1/index.html",
-    "href": "courses/modern-physics/2026-1/index.html",
-    "title": "Modern Physics 2026-1",
+    "objectID": "courses/modern-physics/2025-1/index.html",
+    "href": "courses/modern-physics/2025-1/index.html",
+    "title": "Modern Physics 2025-1",
     "section": "",
-    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.\nCourse taught in Universidad EAFIT. Instructor: Carlos Trujillo @2026"
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations."
   },
   {
-    "objectID": "courses/modern-physics/2026-1/index.html#main-docs",
-    "href": "courses/modern-physics/2026-1/index.html#main-docs",
-    "title": "Modern Physics 2026-1",
-    "section": "Main Docs",
-    "text": "Main Docs\n\nCourse presentation\nLecture Schedule\nLabs Schedule"
+    "objectID": "courses/modern-physics/2025-1/index.html#general-documents",
+    "href": "courses/modern-physics/2025-1/index.html#general-documents",
+    "title": "Modern Physics 2025-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Presentation\nClass Schedule\nLab Schedule"
   },
   {
-    "objectID": "courses/modern-physics/2026-1/index.html#lecture-slides-per-unit",
-    "href": "courses/modern-physics/2026-1/index.html#lecture-slides-per-unit",
-    "title": "Modern Physics 2026-1",
-    "section": "Lecture slides (per unit)",
-    "text": "Lecture slides (per unit)\n\nIntroduction to Special Relativity\nRelativistic Dynamics\nQuantum Theory of Light\nCorpuscular Nature of Matter\nWave Properties of Matter\nWave Quantum Mechanics\nQuantum Mechanics in Three Dimensions\nAtomic Structure"
-  },
-  {
-    "objectID": "courses/modern-physics/2026-1/index.html#lab-guides",
-    "href": "courses/modern-physics/2026-1/index.html#lab-guides",
-    "title": "Modern Physics 2026-1",
-    "section": "Lab guides",
-    "text": "Lab guides\n\nLab 1. Michelson Interferometer\nLab 2. Speed of Light\nLab 3. Blackbody Radiation\nLab 4. Photoelectric Effect\nLab 5. Millikan Apparatus\nLab 6. Franck-Hertz Experiment\nLab 7. Heisenberg Uncertainty Principle\nLab 8. Electron Diffraction\nLab 9. Fine Structure"
-  },
-  {
-    "objectID": "courses/modern-physics/2026-1/index.html#numerical-derivations-and-exercises",
-    "href": "courses/modern-physics/2026-1/index.html#numerical-derivations-and-exercises",
-    "title": "Modern Physics 2026-1",
-    "section": "Numerical Derivations and Exercises",
-    "text": "Numerical Derivations and Exercises\n\nCentral Force Problem Derivation (LaTeX)\nCentral Force Problem Derivation\nSpace-Time Invariance Derivation\nRayleigh-Jeans Energy Density Function\nPhotoelectric Effect Exercise\nPlanck Average Energy per Resonator\nQuantum Tunneling Transmission Coefficient"
-  },
-  {
-    "objectID": "courses/modern-physics/2026-1/index.html#selected-exercises",
-    "href": "courses/modern-physics/2026-1/index.html#selected-exercises",
-    "title": "Modern Physics 2026-1",
-    "section": "Selected Exercises",
-    "text": "Selected Exercises\n\nMidterm 1\nMidterm 2"
-  },
-  {
-    "objectID": "courses/modern-physics/2026-1/index.html#interesting-readings",
-    "href": "courses/modern-physics/2026-1/index.html#interesting-readings",
-    "title": "Modern Physics 2026-1",
-    "section": "Interesting Readings",
-    "text": "Interesting Readings\n\n1900–1925: The Breakdown of Physics, Prof. Roman Castañeda — Historical overview of the scientific revolution that led to modern physics and quantum mechanics.\nJames Jeans’ Almost-Atomic Theory — A historical article discussing James Jeans’ early ideas about atomic structure before Bohr’s model.\nThe Quantum Theory of Radiation — Albert Einstein (1917) — Einstein’s foundational paper introducing the concepts of spontaneous and stimulated emission.\nOn the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927) — Original work presenting the uncertainty principle and the conceptual foundations of quantum mechanics.\nThe 1919 Measurement of the Deflection of Light — Historical review of the famous eclipse experiment that confirmed Einstein’s general relativity."
-  },
-  {
-    "objectID": "courses/modern-physics/2026-1/index.html#reference-textbook",
-    "href": "courses/modern-physics/2026-1/index.html#reference-textbook",
-    "title": "Modern Physics 2026-1",
+    "objectID": "courses/modern-physics/2025-1/index.html#reference-textbook",
+    "href": "courses/modern-physics/2025-1/index.html#reference-textbook",
+    "title": "Modern Physics 2025-1",
     "section": "Reference Textbook",
     "text": "Reference Textbook\nThe course follows the textbook Modern Physics (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities."
   },
   {
-    "objectID": "courses/modern-physics/index.html",
-    "href": "courses/modern-physics/index.html",
-    "title": "Modern Physics",
-    "section": "",
-    "text": "This page contains the course materials for Modern Physics, organized by semester."
+    "objectID": "courses/modern-physics/2025-1/index.html#lecture-slides",
+    "href": "courses/modern-physics/2025-1/index.html#lecture-slides",
+    "title": "Modern Physics 2025-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nUnit 1. Introduction to Special Relativity\nUnit 2. Relativistic Dynamics\nUnit 3. Quantum Theory of Light\nUnit 4. Corpuscular Nature of Matter\nUnit 5. Wave Properties of Matter\nUnit 6. Wave Quantum Mechanics\nUnit 7. Quantum Mechanics in Three Dimensions\nUnit 8. Atomic Structure"
   },
   {
-    "objectID": "courses/modern-physics/index.html#semesters",
-    "href": "courses/modern-physics/index.html#semesters",
-    "title": "Modern Physics",
-    "section": "Semesters",
-    "text": "Semesters\n\n2026-1\n2025-2\n2025-1"
+    "objectID": "courses/modern-physics/2025-1/index.html#lab-guides",
+    "href": "courses/modern-physics/2025-1/index.html#lab-guides",
+    "title": "Modern Physics 2025-1",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab 1. Michelson Interferometer\nLab 2. Speed of Light\nLab 3. Blackbody Radiation\nLab 4. Photoelectric Effect\nLab 5. Millikan Apparatus\nLab 6. Franck-Hertz Experiment\nLab 7. Heisenberg Uncertainty Principle\nLab 8. Electron Diffraction\nLab 9. Fine Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2025-1/index.html#derivations-and-exercises",
+    "href": "courses/modern-physics/2025-1/index.html#derivations-and-exercises",
+    "title": "Modern Physics 2025-1",
+    "section": "Derivations and Exercises",
+    "text": "Derivations and Exercises\n\nCentral Force Problem Derivation\nRayleigh-Jeans Energy Density Function\nPhotoelectric Effect Exercise\nPlanck Average Energy per Resonator\nQuantum Tunneling Transmission Coefficient"
+  },
+  {
+    "objectID": "courses/modern-physics/2025-1/index.html#exams-and-practice-exercises",
+    "href": "courses/modern-physics/2025-1/index.html#exams-and-practice-exercises",
+    "title": "Modern Physics 2025-1",
+    "section": "Exams and Practice Exercises",
+    "text": "Exams and Practice Exercises\n\nPartial Exam 1\nPartial Exam 2"
+  },
+  {
+    "objectID": "courses/modern-physics/2025-1/index.html#interesting-readings",
+    "href": "courses/modern-physics/2025-1/index.html#interesting-readings",
+    "title": "Modern Physics 2025-1",
+    "section": "Interesting Readings",
+    "text": "Interesting Readings\n\nJames Jeans’ Almost-Atomic Theory\nThe Quantum Theory of Radiation — Albert Einstein (1917)\nOn the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927)\nThe 1919 Measurement of the Deflection of Light"
   },
   {
     "objectID": "courses/modern-physics/2025-2/index.html",
@@ -159,6 +145,76 @@
     "title": "Modern Physics 2025-2",
     "section": "Interesting Readings",
     "text": "Interesting Readings\n\nJames Jeans’ Almost-Atomic Theory\nThe Quantum Theory of Radiation — Albert Einstein (1917)\nOn the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927)\nThe 1919 Measurement of the Deflection of Light"
+  },
+  {
+    "objectID": "courses/modern-physics/index.html",
+    "href": "courses/modern-physics/index.html",
+    "title": "Modern Physics",
+    "section": "",
+    "text": "This page contains the course materials for Modern Physics, organized by semester."
+  },
+  {
+    "objectID": "courses/modern-physics/index.html#semesters",
+    "href": "courses/modern-physics/index.html#semesters",
+    "title": "Modern Physics",
+    "section": "Semesters",
+    "text": "Semesters\n\n2026-1\n2025-2\n2025-1"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html",
+    "href": "courses/modern-physics/2026-1/index.html",
+    "title": "Modern Physics 2026-1",
+    "section": "",
+    "text": "Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.\nCourse taught in Universidad EAFIT. Instructor: Carlos Trujillo @2026"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#main-docs",
+    "href": "courses/modern-physics/2026-1/index.html#main-docs",
+    "title": "Modern Physics 2026-1",
+    "section": "Main Docs",
+    "text": "Main Docs\n\nCourse presentation\nLecture Schedule\nLabs Schedule"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#lecture-slides-per-unit",
+    "href": "courses/modern-physics/2026-1/index.html#lecture-slides-per-unit",
+    "title": "Modern Physics 2026-1",
+    "section": "Lecture slides (per unit)",
+    "text": "Lecture slides (per unit)\n\nIntroduction to Special Relativity\nRelativistic Dynamics\nQuantum Theory of Light\nCorpuscular Nature of Matter\nWave Properties of Matter\nWave Quantum Mechanics\nQuantum Mechanics in Three Dimensions\nAtomic Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#lab-guides",
+    "href": "courses/modern-physics/2026-1/index.html#lab-guides",
+    "title": "Modern Physics 2026-1",
+    "section": "Lab guides",
+    "text": "Lab guides\n\nLab 1. Michelson Interferometer\nLab 2. Speed of Light\nLab 3. Blackbody Radiation\nLab 4. Photoelectric Effect\nLab 5. Millikan Apparatus\nLab 6. Franck-Hertz Experiment\nLab 7. Heisenberg Uncertainty Principle\nLab 8. Electron Diffraction\nLab 9. Fine Structure"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#numerical-derivations-and-exercises",
+    "href": "courses/modern-physics/2026-1/index.html#numerical-derivations-and-exercises",
+    "title": "Modern Physics 2026-1",
+    "section": "Numerical Derivations and Exercises",
+    "text": "Numerical Derivations and Exercises\n\nCentral Force Problem Derivation (LaTeX)\nCentral Force Problem Derivation\nSpace-Time Invariance Derivation\nRayleigh-Jeans Energy Density Function\nPhotoelectric Effect Exercise\nPlanck Average Energy per Resonator\nQuantum Tunneling Transmission Coefficient"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#selected-exercises",
+    "href": "courses/modern-physics/2026-1/index.html#selected-exercises",
+    "title": "Modern Physics 2026-1",
+    "section": "Selected Exercises",
+    "text": "Selected Exercises\n\nMidterm 1\nMidterm 2"
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#interesting-readings",
+    "href": "courses/modern-physics/2026-1/index.html#interesting-readings",
+    "title": "Modern Physics 2026-1",
+    "section": "Interesting Readings",
+    "text": "Interesting Readings\n\n1900–1925: The Breakdown of Physics, Prof. Roman Castañeda — Historical overview of the scientific revolution that led to modern physics and quantum mechanics.\nJames Jeans’ Almost-Atomic Theory — A historical article discussing James Jeans’ early ideas about atomic structure before Bohr’s model.\nThe Quantum Theory of Radiation — Albert Einstein (1917) — Einstein’s foundational paper introducing the concepts of spontaneous and stimulated emission.\nOn the Imaginable Content of Quantum Theoretical Kinematics and Mechanics — Werner Heisenberg (1927) — Original work presenting the uncertainty principle and the conceptual foundations of quantum mechanics.\nThe 1919 Measurement of the Deflection of Light — Historical review of the famous eclipse experiment that confirmed Einstein’s general relativity."
+  },
+  {
+    "objectID": "courses/modern-physics/2026-1/index.html#reference-textbook",
+    "href": "courses/modern-physics/2026-1/index.html#reference-textbook",
+    "title": "Modern Physics 2026-1",
+    "section": "Reference Textbook",
+    "text": "Reference Textbook\nThe course follows the textbook Modern Physics (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities."
   },
   {
     "objectID": "index.html",
