@@ -4,6 +4,8 @@ title: "Modern Physics 2026-1"
 
 Introduction to the fundamental concepts of modern physics, including special relativity, quantum phenomena, wave-particle duality, quantum mechanics, and atomic structure, with emphasis on conceptual understanding and mathematical foundations.
 
+Course taught in Universidad EAFIT.
+
 ## Main Docs
 - [Course presentation](docs/0. Presentacion físicamoderna 2026-1.pdf)
 - [Lecture Schedule](docs/Programacion de clases 2026-1.pdf)
