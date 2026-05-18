@@ -1,0 +1,49 @@
+---
+title: "Advanced Topics in Machine Learning 2019-1"
+---
+
+This course explores advanced topics in machine learning and artificial intelligence, including clustering algorithms, regression methods, automated machine learning, generative adversarial networks, reinforcement learning, explainable AI, and modern deep learning architectures.     
+ITM – Institución Universitaria @2019
+
+## General Documents
+
+- [Academic Commitment](info/CompromisoAcadémico_Tópicos_2019-I.docx)
+- [Official Course Program](info/MATA04_Topicos_Avanzados_Aprendizaje_de_Maquinas (1).docx)
+
+## Lecture Slides
+
+- [Lecture 0. Course Presentation](Clases/0-Presentación_TópicosAvanzadosAprendizajeMáquina.pptx)
+- [Lecture 1. Introduction to New Machine Learning Methods](Clases/1-IntroNewMethodsML_TópicosAvanzadosAprendizajeMáquina.pptx)
+- [Lecture 2. Clustering Algorithms](Clases/2-ClusteringAlgorithms_TopicosAvanzadosAprendizajeMaquina - Copy.pptx)
+- [Lecture 3. Regression Algorithms](Clases/3-RegressionAlgorithms_TopicosAvanzadosAprendizajeMaquina.pdf)
+
+## Workshops and Exercises
+
+- [Clustering Exercise](exercises/ExerciseClustering.pdf)
+- [Regression Exercise](exercises/ExerciseRegression.pdf)
+- [Air Quality Dataset](exercises/AirQualityUCI.zip)
+
+## Clustering Reference Material
+
+- [Introduction to Clustering](Clustering/12-clustering.pdf)
+- [Deep Learning for Clustering](Clustering/DLforClustering.pdf)
+- [A Comprehensive Survey of Clustering Algorithms](Clustering/Xu-Tian2015_Article_AComprehensiveSurveyOfClusteri.pdf)
+- [Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders](Clustering/DBC_Discriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders.pdf)
+
+## Regression Reference Material
+
+- [Regression Methods Overview](Regresión/regression.pdf)
+- [Regression Paper 1](Regresión/10.1016@j.neunet.2018.12.010.pdf)
+- [Regression Paper 2](Regresión/1803.08450.pdf)
+- [Regression Paper 3](Regresión/5272-18485-1-PB.pdf)
+- [Regression Paper 4](Regresión/bilkent-research-paper.pdf)
+- [Regression Paper 5](Regresión/zendehboudi2018.pdf)
+
+## Scientific Papers and Additional Readings
+
+- [Auto-sklearn: Automated Machine Learning](Papers/15-NIPS-auto-sklearn-preprint.pdf)
+- [Generative Adversarial Networks (GANs)](Papers/5423-generative-adversarial-nets.pdf)
+- [Capsule Networks](Papers/capsuleNetworks.pdf)
+- [Deep Reinforcement Learning](Papers/deepReinforcementLearning.pdf)
+- [Extreme Learning Machines](Papers/ELM-Rosenblatt-Neumann.pdf)
+- [Explainable Artificial Intelligence](Papers/explanaibleArtificialInteligence.pdf)
