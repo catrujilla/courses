@@ -1,0 +1,54 @@
+---
+title: "Digital Electronics and Microcontrollers 2016-2"
+---
+
+This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, timers, serial communication, analog-to-digital conversion, CCP modules, and project-based development.
+
+## General Documents
+
+- [Course Content](docs/Contenido Asignatura Taller V de Ingeniería Física_CarlosAlejandroTrujillo.pdf)
+- [Project Evaluation Criteria](docs/Criterios+de+Evaluación+de+Proyectos+2016.doc)
+- [Final Exam](docs/ExamenFinal-TallerV.pdf)
+- [PIC18F252 Datasheet](docs/PIC18F252.pdf)
+- [CCP and ECCP Tips and Tricks](docs/CCP and ECCP Tips n Tricks.pdf)
+
+## Lectures
+
+- [Lecture 0. Course Presentation](lectures/0-Presentación_CarlosAlejandroTrujillo.pptx)
+- [Lecture 1. Introduction to the Digital World](lectures/1-Introducción al mundo digital_CarlosAlejandroTrujillo.pptx)
+- [Lecture 2. Combinational Systems](lectures/2-Sistemas Combinacionales_CarlosAlejandroTrujillo.pptx)
+- [Lecture 3. Sequential Systems](lectures/3-Sistemas Secuenciales.pptx)
+- [Lecture 4. Microcontrollers](lectures/4-Microcontroladores.pptx)
+- [Lecture 5. Serial Communication](lectures/5-Comunicación Serial.pptx)
+- [Lecture 6. Analog-to-Digital Conversion](lectures/6-Conversión Análogo-Digital.pptx)
+- [Annex I. Memories](lectures/AnexoI-Memorias.pptx)
+
+## Lab Guides
+
+- [Lab I](lab-guides/Práctica I_CarlosAlejandroTrujillo.pdf)
+- [Lab II](lab-guides/Práctica II.pdf)
+- [Lab III](lab-guides/Práctica III.pdf)
+- [Lab IV](lab-guides/Práctica IV.pdf)
+- [Lab V](lab-guides/Práctica V.pdf)
+- [Lab VII](lab-guides/Práctica VII.pdf)
+
+## Assignments
+
+- [ADC Conversion Assignment](lab-guides/Tarea - ConversiónADC - TallerV_CATA.pdf)
+
+## Quizzes
+
+- [Quiz 1](quices/QUIZ1.docx)
+- [Quiz 2](quices/QUIZ2.docx)
+- [Quiz 3](quices/QUIZ3.docx)
+- [Quiz 4](quices/QUIZ4.docx)
+- [Quiz 5](quices/QUIZ5.docx)
+
+## Code and Projects
+
+- [CCP Test](codes/CCP_Test.X.rar)
+- [Port Control](codes/ControlPuertos.X.rar)
+- [Port Control with Delay](codes/ControlPuertosDelay.X.rar)
+- [Serial Transmission](codes/SerialTX.X.rar)
+- [Timer0 Example](codes/Timer0.X.rar)
+- [Test Project 1](codes/Test1.X.rar)
