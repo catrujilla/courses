@@ -1,0 +1,56 @@
+---
+title: "Electricity and Magnetism 2015-2"
+---
+
+# Electricity and Magnetism 2015-2
+
+## Course Description
+
+This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving.
+
+## General Documents
+
+- [Course Program](info-course/Programa 02_2015.doc)
+- [Excuse Format](info-course/Formato Excusas.docx)
+
+## Lecture Notes (MIT Course)
+
+- [Coulomb’s Law](Notas%20de%20Clase/chap2coulomb_law.pdf)
+- [Electric Potential](Notas%20de%20Clase/ch3electri_poten.pdf)
+- [Gauss’s Law](Notas%20de%20Clase/chapte4gauss_law.pdf)
+- [Capacitance](Notas%20de%20Clase/chap5capacitance.pdf)
+- [Electric Current](Notas%20de%20Clase/chapter6current.pdf)
+- [DC Circuits](Notas%20de%20Clase/chap7dc_circuits.pdf)
+- [Magnetic Fields](Notas%20de%20Clase/ch8magneti_field.pdf)
+- [Sources of Magnetic Fields](Notas%20de%20Clase/ch9sourc_b_field.pdf)
+- [Faraday’s Law](Notas%20de%20Clase/cha10faraday_law.pdf)
+- [Inductance](Notas%20de%20Clase/chap11inductance.pdf)
+
+## Problem Sets and Exercises
+
+- [Workshop I](exercises/Taller I.pdf)
+- [Workshop II](exercises/Taller II.pdf)
+- [Workshop III](exercises/Taller III.pdf)
+- [Workshop IV - Part A](exercises/Taller IV_a.pdf)
+- [Workshop IV - Part B](exercises/Taller IV_b.pdf)
+- [Interesting Exercises for Workshop IV](exercises/Taller IV_EjerciciosInteresante.pdf)
+- [Interesting Exercises for Workshop IV - Solutions](exercises/Taller IV_EjerciciosInteresante_Respuestas.pdf)
+- [Magnetism Bonus Exercise](exercises/BonificacionMagI.pdf)
+
+## Midterm Exams
+
+- [Midterm Exam I - Version L](mid-terms/Parcial-01L.doc)
+- [Midterm Exam I - Version M](mid-terms/Parcial-01M.doc)
+- [Midterm Exam I - Make-up](mid-terms/Parcial I - Supletorio.pdf)
+
+- [Midterm Exam II - Version H](mid-terms/Parcial-02H.doc)
+- [Midterm Exam II - Version I](mid-terms/Parcial-02I.doc)
+- [Midterm Exam II - Make-up](mid-terms/Parcial II - Supletorio.pdf)
+
+- [Midterm Exam III - Version J](mid-terms/Parcial-03J.doc)
+- [Midterm Exam III - Version K](mid-terms/Parcial-03K.doc)
+- [Midterm Exam III - Make-up I](mid-terms/Parcial III - Supletorio I.pdf)
+- [Midterm Exam III - Make-up II](mid-terms/Parcial III - Supletorio II.pdf)
+
+- [Midterm Exam IV](mid-terms/Parcial IV.doc)
+- [Interesting Midterm Exam IV](mid-terms/Parcial IV_Interesante.doc)
