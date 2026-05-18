@@ -42,12 +42,12 @@ This course introduces the fundamentals of digital electronics and microcontroll
 
 ## Code and Simulations
 
-- [Common code files](codes/)
-- [Practices I–III simulations](codes/Prácticas I-III/)
-- [Practice IV code](codes/Práctica IV/)
-- [Practice V code](codes/Práctica V/)
-- [Practice VI code](codes/Práctica VI/)
-- [Practice VII code](codes/Práctica VII/)
-- [Practice VIII code](codes/Práctica VIII/)
-- [Practice IX code](codes/Práctica IX/)
-- [Practice X code](codes/Práctica X/)
+- [Common code files](codes/common.rar)
+- [Practices I–III simulations](codes/Prácticas I-III.rar)
+- [Practice IV code](codes/Práctica IV.rar)
+- [Practice V code](codes/Práctica V.rar)
+- [Practice VI code](codes/Práctica VI.rar)
+- [Practice VII code](codes/Práctica VII.rar)
+- [Practice VIII code](codes/Práctica VIII.rar)
+- [Practice IX code](codes/Práctica IX.rar)
+- [Practice X code](codes/Práctica X.rar)
