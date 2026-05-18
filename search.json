@@ -161,88 +161,67 @@
     "text": "Semesters\n\n2026-1\n2025-2\n2025-1\n2024-2\n2024-1"
   },
   {
-    "objectID": "courses/digital-electronics/2013-2/index.html",
-    "href": "courses/digital-electronics/2013-2/index.html",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "objectID": "courses/digital-electronics/2016-2/index.html",
+    "href": "courses/digital-electronics/2016-2/index.html",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, PCB design, and final project development."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, timers, serial communication, analog-to-digital conversion, CCP modules, and project-based development."
   },
   {
-    "objectID": "courses/digital-electronics/2013-2/index.html#general-documents",
-    "href": "courses/digital-electronics/2013-2/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "objectID": "courses/digital-electronics/2016-2/index.html#general-documents",
+    "href": "courses/digital-electronics/2016-2/index.html#general-documents",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "General Documents",
-    "text": "General Documents\n\nCourse Content\nProject Description\nCircuit Fabrication Guidelines\nFinal Project Report I - Example 1\nFinal Project Report I - Example 2\nFinal Project Submission"
+    "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nFinal Exam\nPIC18F252 Datasheet\nCCP and ECCP Tips and Tricks"
   },
   {
-    "objectID": "courses/digital-electronics/2013-2/index.html#lectures",
-    "href": "courses/digital-electronics/2013-2/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
-    "section": "Lectures",
-    "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion"
-  },
-  {
-    "objectID": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
-    "href": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
-    "section": "Lecture Annexes",
-    "text": "Lecture Annexes\n\nAnnex I. Memories\nPCB Design and Fabrication"
-  },
-  {
-    "objectID": "courses/digital-electronics/2013-2/index.html#lab-guides",
-    "href": "courses/digital-electronics/2013-2/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
-    "section": "Lab Guides",
-    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
-  },
-  {
-    "objectID": "courses/digital-electronics/2013-2/index.html#code-and-projects",
-    "href": "courses/digital-electronics/2013-2/index.html#code-and-projects",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
-    "section": "Code and Projects",
-    "text": "Code and Projects\n\nMicrocontroller Test Project"
-  },
-  {
-    "objectID": "courses/digital-electronics/2016-1/index.html",
-    "href": "courses/digital-electronics/2016-1/index.html",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
-    "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, interrupts, and project-based development."
-  },
-  {
-    "objectID": "courses/digital-electronics/2016-1/index.html#general-documents",
-    "href": "courses/digital-electronics/2016-1/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
-    "section": "General Documents",
-    "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nDigital Electronics Manual\nPIC18F2580 Datasheet"
-  },
-  {
-    "objectID": "courses/digital-electronics/2016-1/index.html#lectures",
-    "href": "courses/digital-electronics/2016-1/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "objectID": "courses/digital-electronics/2016-2/index.html#lectures",
+    "href": "courses/digital-electronics/2016-2/index.html#lectures",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "Lectures",
     "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion\nAnnex I. Memories"
   },
   {
-    "objectID": "courses/digital-electronics/2016-1/index.html#lab-guides",
-    "href": "courses/digital-electronics/2016-1/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "objectID": "courses/digital-electronics/2016-2/index.html#lab-guides",
+    "href": "courses/digital-electronics/2016-2/index.html#lab-guides",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "Lab Guides",
-    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
+    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VII"
   },
   {
-    "objectID": "courses/digital-electronics/2016-1/index.html#quizzes",
-    "href": "courses/digital-electronics/2016-1/index.html#quizzes",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "objectID": "courses/digital-electronics/2016-2/index.html#assignments",
+    "href": "courses/digital-electronics/2016-2/index.html#assignments",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "section": "Assignments",
+    "text": "Assignments\n\nADC Conversion Assignment"
+  },
+  {
+    "objectID": "courses/digital-electronics/2016-2/index.html#quizzes",
+    "href": "courses/digital-electronics/2016-2/index.html#quizzes",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "Quizzes",
-    "text": "Quizzes\n\nQuiz 1\nQuiz 2\nQuiz 4\nQuiz 5\nQuiz 5A\nQuiz 6\nQuiz 7\nQuiz 8"
+    "text": "Quizzes\n\nQuiz 1\nQuiz 2\nQuiz 3\nQuiz 4\nQuiz 5"
   },
   {
-    "objectID": "courses/digital-electronics/2016-1/index.html#code-and-projects",
-    "href": "courses/digital-electronics/2016-1/index.html#code-and-projects",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "objectID": "courses/digital-electronics/2016-2/index.html#code-and-projects",
+    "href": "courses/digital-electronics/2016-2/index.html#code-and-projects",
+    "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "Code and Projects",
-    "text": "Code and Projects\n\nPIC16F Analog-to-Digital Conversion\nActuators Control\nAnalog-to-Digital Conversion\nInterrupts\nFirst Project\nFirst Project 1\nMicrocontroller Test Project\nSecond Project\nRS232 Serial Communication"
+    "text": "Code and Projects\n\nCCP Test\nPort Control\nPort Control with Delay\nSerial Transmission\nTimer0 Example\nTest Project 1"
+  },
+  {
+    "objectID": "courses/digital-electronics/index.html",
+    "href": "courses/digital-electronics/index.html",
+    "title": "Digital Electronics and Microcontrollers",
+    "section": "",
+    "text": "This page contains the course materials for Digital Electronics and Microcontrollers (Taller V), organized by semester."
+  },
+  {
+    "objectID": "courses/digital-electronics/index.html#semesters",
+    "href": "courses/digital-electronics/index.html#semesters",
+    "title": "Digital Electronics and Microcontrollers",
+    "section": "Semesters",
+    "text": "Semesters\n\n2017-2\n2017-1\n2016-2\n2016-1\n2013-2\n2011-1"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html",
@@ -287,18 +266,88 @@
     "text": "Code and Simulations\n\nCommon code files\nPractices I–III simulations\nPractice IV code\nPractice V code\nPractice VI code\nPractice VII code\nPractice VIII code\nPractice IX code\nPractice X code"
   },
   {
-    "objectID": "courses/digital-electronics/index.html",
-    "href": "courses/digital-electronics/index.html",
-    "title": "Digital Electronics and Microcontrollers",
+    "objectID": "courses/digital-electronics/2016-1/index.html",
+    "href": "courses/digital-electronics/2016-1/index.html",
+    "title": "Digital Electronics and Microcontrollers 2016-1",
     "section": "",
-    "text": "This page contains the course materials for Digital Electronics and Microcontrollers (Taller V), organized by semester."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, interrupts, and project-based development."
   },
   {
-    "objectID": "courses/digital-electronics/index.html#semesters",
-    "href": "courses/digital-electronics/index.html#semesters",
-    "title": "Digital Electronics and Microcontrollers",
-    "section": "Semesters",
-    "text": "Semesters\n\n2017-2\n2017-1\n2016-2\n2016-1\n2013-2\n2011-1"
+    "objectID": "courses/digital-electronics/2016-1/index.html#general-documents",
+    "href": "courses/digital-electronics/2016-1/index.html#general-documents",
+    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nDigital Electronics Manual\nPIC18F2580 Datasheet"
+  },
+  {
+    "objectID": "courses/digital-electronics/2016-1/index.html#lectures",
+    "href": "courses/digital-electronics/2016-1/index.html#lectures",
+    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "section": "Lectures",
+    "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion\nAnnex I. Memories"
+  },
+  {
+    "objectID": "courses/digital-electronics/2016-1/index.html#lab-guides",
+    "href": "courses/digital-electronics/2016-1/index.html#lab-guides",
+    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
+  },
+  {
+    "objectID": "courses/digital-electronics/2016-1/index.html#quizzes",
+    "href": "courses/digital-electronics/2016-1/index.html#quizzes",
+    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "section": "Quizzes",
+    "text": "Quizzes\n\nQuiz 1\nQuiz 2\nQuiz 4\nQuiz 5\nQuiz 5A\nQuiz 6\nQuiz 7\nQuiz 8"
+  },
+  {
+    "objectID": "courses/digital-electronics/2016-1/index.html#code-and-projects",
+    "href": "courses/digital-electronics/2016-1/index.html#code-and-projects",
+    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "section": "Code and Projects",
+    "text": "Code and Projects\n\nPIC16F Analog-to-Digital Conversion\nActuators Control\nAnalog-to-Digital Conversion\nInterrupts\nFirst Project\nFirst Project 1\nMicrocontroller Test Project\nSecond Project\nRS232 Serial Communication"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html",
+    "href": "courses/digital-electronics/2013-2/index.html",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "",
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, PCB design, and final project development."
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#general-documents",
+    "href": "courses/digital-electronics/2013-2/index.html#general-documents",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Content\nProject Description\nCircuit Fabrication Guidelines\nFinal Project Report I - Example 1\nFinal Project Report I - Example 2\nFinal Project Submission"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#lectures",
+    "href": "courses/digital-electronics/2013-2/index.html#lectures",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Lectures",
+    "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
+    "href": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Lecture Annexes",
+    "text": "Lecture Annexes\n\nAnnex I. Memories\nPCB Design and Fabrication"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#lab-guides",
+    "href": "courses/digital-electronics/2013-2/index.html#lab-guides",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#code-and-projects",
+    "href": "courses/digital-electronics/2013-2/index.html#code-and-projects",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Code and Projects",
+    "text": "Code and Projects\n\nMicrocontroller Test Project"
   },
   {
     "objectID": "courses/modern-physics/2024-2/index.html",
