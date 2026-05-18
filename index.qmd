@@ -19,6 +19,5 @@ Welcome to my course website.
 - Lecture slides
 - MATLAB codes
 - Python scripts
-- Datasets
 - Papers
 - And other specific files depending on the course
