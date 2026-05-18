@@ -2,10 +2,6 @@
 title: "Electricity and Magnetism 2015-2"
 ---
 
-# Electricity and Magnetism 2015-2
-
-## Course Description
-
 This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving.
 
 ## General Documents
