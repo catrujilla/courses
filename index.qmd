@@ -4,7 +4,7 @@ title: "Carlos Trujillo course resources"
 
 Welcome to my course website.
 
-## Courses (by alphabetical order)
+## Courses (listed in alphabetical order)
 
 - [Artificial Intelligence](courses/artificial-intelligence/)
 - [Computer Vision](courses/computer-vision/)
