@@ -1,0 +1,52 @@
+---
+title: "Artificial Intelligence I 2019-1"
+---
+
+This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling.
+
+## General Documents
+
+- [Course Presentation](clases/0-Presentación_InteligenciaArtificialI.pptx)
+- [Academic Commitment](docs/CompromisoAcadémico_InteligenciaArtificialI_2019-I.docx)
+- [Official Course Program](docs/Inteligencia Artificial I IAW92_2018.pdf)
+
+## Lecture Slides
+
+- [Lecture 1. Introduction to Artificial Intelligence](clases/1-Intro_InteligenciaArtificialI.pptx)
+- [Lecture 2. Machine Learning Techniques](clases/2-TécnicasAprendizajeMaquina.pptx)
+- [Lecture 3. Feature Extraction](clases/3-Extracción de características.pptx)
+- [Lecture 4. Linear Regression and Cross-Validation](clases/4-RegresiónLinealValidacióCruzada.pptx)
+
+## Workshops and Assignments
+
+- [Workshop 1. Feature Extraction](exercises/1_TallerExtraccionCaracteristicas_InteligenciaArtificialI.pdf)
+- [Workshop 2. Linear Regression and Cross-Validation](exercises/2_RegresiónLinealValidaciónCruzada_InteligenciaArtificialI.txt)
+- [Workshop 3. Gradient Descent](exercises/3_DescensoGradiente_InteligenciaArtificialI.pdf)
+- [Workshop 4. Neural Networks and Deep Learning](exercises/4_RedesNeuronalesDeepLearning_InteligenciaArtificialI.pdf)
+
+## Reference Material
+
+- [Understanding Machine Learning: From Theory to Algorithms](references/understanding-machine-learning-theory-algorithms.pdf)
+
+### Reference Chapters
+
+- [Chapter 1](references/Chapter1.pdf)
+- [Chapter 2](references/Chapter2.pdf)
+- [Chapter 3](references/Chapter3.pdf)
+- [Chapter 4](references/Chapter4.pdf)
+- [Chapter 5](references/Chapter5.pdf)
+- [Chapter 6](references/Chapter6.pdf)
+- [Chapter 7](references/Chapter7.pdf)
+- [Chapter 8](references/Chapter8.pdf)
+- [Chapter 9](references/Chapter9.pdf)
+- [Chapter 10](references/Chapter10.pdf)
+- [Chapter 11](references/Chapter11.pdf)
+
+## Scientific Papers and Additional Readings
+
+- [Introduction to Feature Selection](papers/IntroFS.pdf)
+- [Feature Selection Methods Review](papers/khalid2014.pdf)
+
+## Code and Resources
+
+- [Course Codes and Examples](codes/codes.rar)
