@@ -161,18 +161,46 @@
     "text": "Semesters\n\n2026-1\n2025-2\n2025-1\n2024-2\n2024-1"
   },
   {
-    "objectID": "courses/digital-electronics/index.html",
-    "href": "courses/digital-electronics/index.html",
-    "title": "Digital Electronics and Microcontrollers",
+    "objectID": "courses/digital-electronics/2013-2/index.html",
+    "href": "courses/digital-electronics/2013-2/index.html",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
     "section": "",
-    "text": "This page contains the course materials for Digital Electronics and Microcontrollers (Taller V), organized by semester."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, PCB design, and final project development."
   },
   {
-    "objectID": "courses/digital-electronics/index.html#semesters",
-    "href": "courses/digital-electronics/index.html#semesters",
-    "title": "Digital Electronics and Microcontrollers",
-    "section": "Semesters",
-    "text": "Semesters\n\n2017-2\n2017-1\n2016-2\n2016-1\n2013-2\n2011-1"
+    "objectID": "courses/digital-electronics/2013-2/index.html#general-documents",
+    "href": "courses/digital-electronics/2013-2/index.html#general-documents",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Content\nProject Description\nCircuit Fabrication Guidelines\nFinal Project Report I - Example 1\nFinal Project Report I - Example 2\nFinal Project Submission"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#lectures",
+    "href": "courses/digital-electronics/2013-2/index.html#lectures",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Lectures",
+    "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
+    "href": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Lecture Annexes",
+    "text": "Lecture Annexes\n\nAnnex I. Memories\nPCB Design and Fabrication"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#lab-guides",
+    "href": "courses/digital-electronics/2013-2/index.html#lab-guides",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
+  },
+  {
+    "objectID": "courses/digital-electronics/2013-2/index.html#code-and-projects",
+    "href": "courses/digital-electronics/2013-2/index.html#code-and-projects",
+    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "section": "Code and Projects",
+    "text": "Code and Projects\n\nMicrocontroller Test Project"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html",
@@ -215,6 +243,20 @@
     "title": "Digital Electronics and Microcontrollers 2011-1",
     "section": "Code and Simulations",
     "text": "Code and Simulations\n\nCommon code files\nPractices I–III simulations\nPractice IV code\nPractice V code\nPractice VI code\nPractice VII code\nPractice VIII code\nPractice IX code\nPractice X code"
+  },
+  {
+    "objectID": "courses/digital-electronics/index.html",
+    "href": "courses/digital-electronics/index.html",
+    "title": "Digital Electronics and Microcontrollers",
+    "section": "",
+    "text": "This page contains the course materials for Digital Electronics and Microcontrollers (Taller V), organized by semester."
+  },
+  {
+    "objectID": "courses/digital-electronics/index.html#semesters",
+    "href": "courses/digital-electronics/index.html#semesters",
+    "title": "Digital Electronics and Microcontrollers",
+    "section": "Semesters",
+    "text": "Semesters\n\n2017-2\n2017-1\n2016-2\n2016-1\n2013-2\n2011-1"
   },
   {
     "objectID": "courses/modern-physics/2024-2/index.html",
