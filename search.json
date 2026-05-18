@@ -210,6 +210,20 @@
     "text": "Semesters\n\n2015-2\n2014-2\n2011-2"
   },
   {
+    "objectID": "courses/computer-vision/index.html",
+    "href": "courses/computer-vision/index.html",
+    "title": "Computer Vision",
+    "section": "",
+    "text": "This page contains the course materials for Computer Vision (Visión Artificial), organized by semester."
+  },
+  {
+    "objectID": "courses/computer-vision/index.html#semesters",
+    "href": "courses/computer-vision/index.html#semesters",
+    "title": "Computer Vision",
+    "section": "Semesters",
+    "text": "Semesters\n\n2019-1"
+  },
+  {
     "objectID": "courses/artificial-intelligence/2019-1 IS/index.html",
     "href": "courses/artificial-intelligence/2019-1 IS/index.html",
     "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
@@ -256,7 +270,7 @@
     "href": "courses/artificial-intelligence/2019-1/index.html",
     "title": "Artificial Intelligence I 2019-1",
     "section": "",
-    "text": "This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling."
+    "text": "This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling.\nITM – Institución Universitaria @2019"
   },
   {
     "objectID": "courses/artificial-intelligence/2019-1/index.html#general-documents",
@@ -588,6 +602,41 @@
     "text": "Semesters\n\n2019-1\n2019-1 - Systems engineering"
   },
   {
+    "objectID": "courses/computer-vision/2019-1/index.html",
+    "href": "courses/computer-vision/2019-1/index.html",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "",
+    "text": "This course introduces the fundamental concepts of computer vision, including image processing, camera models, feature extraction and matching, motion detection, object tracking, and image classification, with emphasis on practical applications and computational methods.\nITM – Institución Universitaria @2019"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#general-documents",
+    "href": "courses/computer-vision/2019-1/index.html#general-documents",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nAcademic Commitment\nOfficial Course Program"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#lecture-slides",
+    "href": "courses/computer-vision/2019-1/index.html#lecture-slides",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nLecture 0. Course Presentation\nLecture 1. Image Processing\nLecture 2. Camera Models and Views\nLecture 3. Feature Matching\nLecture 4. Motion in Images\nLecture 5. Object Tracking\nLecture 6. Image Classification"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#workshops-and-assignments",
+    "href": "courses/computer-vision/2019-1/index.html#workshops-and-assignments",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "Workshops and Assignments",
+    "text": "Workshops and Assignments\n\nWorkshop 1. Image Processing\nWorkshop 3. Feature Extraction and Motion Detection\nWorkshop 4. Tracking\nWorkshop 5. Classification"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#code-and-resources",
+    "href": "courses/computer-vision/2019-1/index.html#code-and-resources",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "Code and Resources",
+    "text": "Code and Resources\n\nCourse Codes and Examples"
+  },
+  {
     "objectID": "courses/electricity-magnetism/2015-2/index.html",
     "href": "courses/electricity-magnetism/2015-2/index.html",
     "title": "Electricity and Magnetism (Physics 2) 2015-2",
@@ -826,11 +875,11 @@
     "text": "Welcome to my course website."
   },
   {
-    "objectID": "index.html#courses",
-    "href": "index.html#courses",
+    "objectID": "index.html#courses-by-alphabetical-order",
+    "href": "index.html#courses-by-alphabetical-order",
     "title": "Carlos Trujillo course resources",
-    "section": "Courses",
-    "text": "Courses\n\nModern Physics\nFourier Optics\nDigital Holography\nArtificial Intelligence\nDigital Electronics and Microcontrollers\nElectricity and magnetism"
+    "section": "Courses (by alphabetical order)",
+    "text": "Courses (by alphabetical order)\n\nArtificial Intelligence\nComputer Vision\nDigital Electronics and Microcontrollers\nDigital Holography\nElectricity and magnetism\nFourier Optics\nModern Physics"
   },
   {
     "objectID": "index.html#resources-in-each-course",
