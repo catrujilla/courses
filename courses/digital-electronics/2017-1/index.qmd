@@ -1,0 +1,45 @@
+---
+title: "Digital Electronics and Microcontrollers 2017-1"
+---
+
+This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, PCB design, embedded programming, serial communication, analog-to-digital conversion, timers, PWM control, and project-based development.
+
+## General Documents
+
+- [Course Content](docs/Contenido Asignatura Taller V de Ingeniería Física.pdf)
+- [Project Evaluation Criteria](docs/Criterios+de+Evaluación+de+Proyectos+2017.pdf)
+- [Creating Cheap Circuit Boards](docs/Creating_Cheap_Circuit_Boards_Build-Electronic-Circuits.com_.pdf)
+
+## Lectures
+
+- [Lecture 0. Course Presentation](lectures/0-Presentación_CarlosAlejandroTrujillo.pptx)
+- [Lecture 1. Introduction to the Digital World](lectures/1-Introducción al mundo digital_CarlosAlejandroTrujillo.pptx)
+- [Lecture 2. Combinational Systems](lectures/2-Sistemas Combinacionales_CarlosAlejandroTrujillo.pptx)
+- [Lecture 3. Sequential Systems](lectures/3-Sistemas Secuenciales.pptx)
+- [Lecture 4. PCB Circuit Design](lectures/4-Diseno de Circuitos Impresos PCB.pptx)
+- [Lecture 5. Microcontrollers](lectures/5-Microcontroladores.pptx)
+- [Lecture 6. Serial Communication](lectures/6-Comunicación Serial.pptx)
+- [Lecture 7. Analog-to-Digital Conversion](lectures/7-Conversión Análogo-Digital.pptx)
+
+## Lab Guides
+
+- [Lab I](lab-guides/Práctica I.pdf)
+- [Lab II](lab-guides/Práctica II.pdf)
+- [Lab III](lab-guides/Práctica III.pdf)
+- [Lab IV](lab-guides/Práctica IV.pdf)
+- [Lab V](lab-guides/Práctica V.pdf)
+- [Lab VI](lab-guides/Práctica VI.pdf)
+- [Lab VII](lab-guides/Práctica VII.pdf)
+- [Lab VIII](lab-guides/Práctica VIII.pdf)
+- [Lab IX](lab-guides/Práctica IX.pdf)
+
+## Exams
+
+- [Final Exam](quices/ExamenFinal-TallerV-2017.pdf)
+
+## Code and Projects
+
+- [ADC Test](codes/ADC_Test.X.rar)
+- [PWM Example](codes/pwmSimple.X.rar)
+- [Serial Communication Test](codes/SerialTest.X.rar)
+- [Timer2 Example](codes/Timer2.X.rar)

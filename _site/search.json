@@ -656,5 +656,47 @@
     "title": "Digital Electronics and Microcontrollers 2016-2",
     "section": "Code and Projects",
     "text": "Code and Projects\n\nCCP Test\nPort Control\nPort Control with Delay\nSerial Transmission\nTimer0 Example\nTest Project 1"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-1/index.html",
+    "href": "courses/digital-electronics/2017-1/index.html",
+    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "section": "",
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, PCB design, embedded programming, serial communication, analog-to-digital conversion, timers, PWM control, and project-based development."
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-1/index.html#general-documents",
+    "href": "courses/digital-electronics/2017-1/index.html#general-documents",
+    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nCreating Cheap Circuit Boards"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-1/index.html#lectures",
+    "href": "courses/digital-electronics/2017-1/index.html#lectures",
+    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "section": "Lectures",
+    "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. PCB Circuit Design\nLecture 5. Microcontrollers\nLecture 6. Serial Communication\nLecture 7. Analog-to-Digital Conversion"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-1/index.html#lab-guides",
+    "href": "courses/digital-electronics/2017-1/index.html#lab-guides",
+    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII\nLab IX"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-1/index.html#exams",
+    "href": "courses/digital-electronics/2017-1/index.html#exams",
+    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "section": "Exams",
+    "text": "Exams\n\nFinal Exam"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-1/index.html#code-and-projects",
+    "href": "courses/digital-electronics/2017-1/index.html#code-and-projects",
+    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "section": "Code and Projects",
+    "text": "Code and Projects\n\nADC Test\nPWM Example\nSerial Communication Test\nTimer2 Example"
   }
 ]
