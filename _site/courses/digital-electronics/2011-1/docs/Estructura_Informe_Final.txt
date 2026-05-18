@@ -1,0 +1,8 @@
+Resumen
+1. Introducción.
+2. Fundamentos Teóricos.
+3. Montajes Experimentales (Circuitos, módulo a módulo).
+4. Descripción funcionamiento (lo que hace el(los) PIC(s)).
+5. Resultados (Datos numéricos).
+6. Conclusiones.
+Referencias
