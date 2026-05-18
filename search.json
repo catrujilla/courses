@@ -2,30 +2,30 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About This Site",
+    "title": "About this site",
     "section": "",
     "text": "This website was created to provide open and free access to the academic materials used in the courses I teach in physics, optical instrumentation, engineering, and applied sciences.\nThe site includes lecture slides, laboratory guides, derivations, exercises, readings, and additional resources organized by course and semester. Its main purpose is to support students during their learning process and to promote accessible scientific education.\nMost of the materials are continuously updated throughout each semester and are intended for educational use."
   },
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
-    "title": "About This Site",
-    "section": "About Me",
-    "text": "About Me\nI am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optical instrumentation, and engineering, and coordinate the Master’s program in Applied Physics.\nI have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.\nAdditionally, I served as Full-Time professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision."
+    "title": "About this site",
+    "section": "About me",
+    "text": "About me\nI am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optical instrumentation, and engineering, and coordinate the Master’s program in Applied Physics.\nI have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.\nAdditionally, I served as Full-Time professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision."
   },
   {
     "objectID": "about.html#topics-covered",
     "href": "about.html#topics-covered",
-    "title": "About This Site",
-    "section": "Topics Covered",
-    "text": "Topics Covered\nSome of the topics covered through these courses include:\n\nModern Physics\nOptics and Photonics\nFourier Optics\nDigital electronics\nMicrocontrollers\nElectromagnetism\nComputational Imaging\nArtificial Intelligence for Science and Engineering"
+    "title": "About this site",
+    "section": "Topics covered",
+    "text": "Topics covered\nSome of the topics covered through these courses include:\n\nModern Physics\nOptics and Photonics\nFourier Optics\nDigital electronics\nMicrocontrollers\nElectromagnetism\nComputational Imaging\nArtificial Intelligence for Science and Engineering"
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About This Site",
+    "title": "About this site",
     "section": "Contact",
-    "text": "Contact\nCarlos Alejandro Trujillo Anaya Universidad EAFIT Medellín, Colombia\nInstitutional web page:\nhttps://www.eafit.edu.co/nuestros-profesores/carlos-alejandro-trujillo-anaya\nGoogle Scholar site:\nhttps://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en&oi=ao\nGitHub Repository:\nhttps://github.com/catrujilla/courses\n\nThis website is built using Quarto and GitHub Pages."
+    "text": "Contact\nCarlos Alejandro Trujillo Anaya\nUniversidad EAFIT\nMedellín, Colombia\nInstitutional web page:\nhttps://www.eafit.edu.co/nuestros-profesores/carlos-alejandro-trujillo-anaya\nGoogle Scholar site:\nhttps://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en&oi=ao\nGitHub Repository:\nhttps://github.com/catrujilla/courses\ncatrujilla@eafit.edu.co\ncatrujila@unal.edu.co\n\nThis website is built using Quarto and GitHub Pages."
   },
   {
     "objectID": "courses/modern-physics/2025-1/index.html",
