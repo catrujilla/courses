@@ -1,5 +1,5 @@
 ---
-title: "Professor Carlos Trujillo courses"
+title: "Carlos Trujillo course resources"
 ---
 
 Welcome to my course website.
@@ -9,6 +9,7 @@ Welcome to my course website.
 - [Modern Physics](courses/modern-physics/)
 - Fourier Optics
 - Digital Holography
+- [Digital Electronics and Microcontrollers](courses/digital-electronics/)
 - Technology Management
 
 ## Resources in each course
