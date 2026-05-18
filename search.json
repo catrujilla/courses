@@ -28,6 +28,20 @@
     "text": "Contact\nCarlos Alejandro Trujillo Anaya\nUniversidad EAFIT\nMedellín, Colombia\nInstitutional web page:\nhttps://www.eafit.edu.co/nuestros-profesores/carlos-alejandro-trujillo-anaya\nGoogle Scholar site:\nhttps://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en&oi=ao\nGitHub Repository:\nhttps://github.com/catrujilla/courses\ncatrujilla@eafit.edu.co\ncatrujila@unal.edu.co\n\nThis website is built using Quarto and GitHub Pages."
   },
   {
+    "objectID": "courses/advanced-ml/index.html",
+    "href": "courses/advanced-ml/index.html",
+    "title": "Advanced Topics in Artificial Intelligence",
+    "section": "",
+    "text": "This page contains the course materials for Advanced Topics in Artificial Intelligence (masters course), organized by semester."
+  },
+  {
+    "objectID": "courses/advanced-ml/index.html#semesters",
+    "href": "courses/advanced-ml/index.html#semesters",
+    "title": "Advanced Topics in Artificial Intelligence",
+    "section": "Semesters",
+    "text": "Semesters\n\n2019-1"
+  },
+  {
     "objectID": "courses/modern-physics/2025-1/index.html",
     "href": "courses/modern-physics/2025-1/index.html",
     "title": "Modern Physics 2025-1",
@@ -866,6 +880,55 @@
     "title": "Modern Physics 2026-1",
     "section": "Reference Textbook",
     "text": "Reference Textbook\nThe course follows the textbook Modern Physics (3rd Edition) by Raymond A. Serway, Clement J. Moses, and Curt A. Moyer as the main reference for lectures, derivations, and problem-solving activities."
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html",
+    "href": "courses/advanced-ml/2019-1/index.html",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "",
+    "text": "This course explores advanced topics in machine learning and artificial intelligence, including clustering algorithms, regression methods, automated machine learning, generative adversarial networks, reinforcement learning, explainable AI, and modern deep learning architectures.\nITM – Institución Universitaria @2019"
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html#general-documents",
+    "href": "courses/advanced-ml/2019-1/index.html#general-documents",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nAcademic Commitment\nOfficial Course Program"
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html#lecture-slides",
+    "href": "courses/advanced-ml/2019-1/index.html#lecture-slides",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nLecture 0. Course Presentation\nLecture 1. Introduction to New Machine Learning Methods\nLecture 2. Clustering Algorithms\nLecture 3. Regression Algorithms"
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html#workshops-and-exercises",
+    "href": "courses/advanced-ml/2019-1/index.html#workshops-and-exercises",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "Workshops and Exercises",
+    "text": "Workshops and Exercises\n\nClustering Exercise\nRegression Exercise\nAir Quality Dataset"
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html#clustering-reference-material",
+    "href": "courses/advanced-ml/2019-1/index.html#clustering-reference-material",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "Clustering Reference Material",
+    "text": "Clustering Reference Material\n\nIntroduction to Clustering\nDeep Learning for Clustering\nA Comprehensive Survey of Clustering Algorithms\nDiscriminatively Boosted Image Clustering with Fully Convolutional Auto-Encoders"
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html#regression-reference-material",
+    "href": "courses/advanced-ml/2019-1/index.html#regression-reference-material",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "Regression Reference Material",
+    "text": "Regression Reference Material\n\nRegression Methods Overview\nRegression Paper 1\nRegression Paper 2\nRegression Paper 3\nRegression Paper 4\nRegression Paper 5"
+  },
+  {
+    "objectID": "courses/advanced-ml/2019-1/index.html#scientific-papers-and-additional-readings",
+    "href": "courses/advanced-ml/2019-1/index.html#scientific-papers-and-additional-readings",
+    "title": "Advanced Topics in Machine Learning 2019-1",
+    "section": "Scientific Papers and Additional Readings",
+    "text": "Scientific Papers and Additional Readings\n\nAuto-sklearn: Automated Machine Learning\nGenerative Adversarial Networks (GANs)\nCapsule Networks\nDeep Reinforcement Learning\nExtreme Learning Machines\nExplainable Artificial Intelligence"
   },
   {
     "objectID": "index.html",
