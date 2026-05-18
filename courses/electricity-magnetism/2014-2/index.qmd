@@ -1,0 +1,39 @@
+---
+title: "Electricity and Magnetism 2014-2"
+---
+
+This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving.
+
+## General Documents
+
+- [Course Program](info-course/Programa-02_2014.doc)
+- [Classroom Distribution for Midterm Exam I](info-course/distribucion de aulas parcial 1 fisica electricidad y magnetismo.doc)
+
+## Lecture Notes (MIT Course)
+
+- [Coulomb’s Law](Notas%20de%20Clase/chap2coulomb_law.pdf)
+- [Electric Potential](Notas%20de%20Clase/ch3electri_poten.pdf)
+- [Gauss’s Law](Notas%20de%20Clase/chapte4gauss_law.pdf)
+- [Capacitance](Notas%20de%20Clase/chap5capacitance.pdf)
+- [Electric Current](Notas%20de%20Clase/chapter6current.pdf)
+- [DC Circuits](Notas%20de%20Clase/chap7dc_circuits.pdf)
+- [Magnetic Fields](Notas%20de%20Clase/ch8magneti_field.pdf)
+- [Sources of Magnetic Fields](Notas%20de%20Clase/ch9sourc_b_field.pdf)
+- [Faraday’s Law](Notas%20de%20Clase/cha10faraday_law.pdf)
+- [Inductance](Notas%20de%20Clase/chap11inductance.pdf)
+
+## Problem Sets and Exercises
+
+- [Workshop I](exercises/Taller%20I.pdf)
+- [Workshop II](exercises/Taller%20II.pdf)
+- [Workshop III](exercises/Taller%20III.pdf)
+- [Workshop IV](exercises/Taller%20IV.pdf)
+
+## Midterm Exams
+
+- [Midterm Exam I](mid-terms/parcial%201d.doc)
+- [Midterm Exam I - Make-up](mid-terms/Parcial%20I%20-%20Supletorio.docx)
+- [Midterm Exam III - Make-up Version 1](mid-terms/Parcial%203%20Supletorio%203.pdf)
+- [Midterm Exam III - Make-up Version 2](mid-terms/Parcial%203%20Supletorio%203%20Nov19.pdf)
+- [Midterm Exam IV - Type I](mid-terms/Parcial%20IV%20-%20Tipo%20I.docx)
+- [Midterm Exam IV - Type II](mid-terms/Parcial%20IV%20-%20Tipo%20II.docx)
