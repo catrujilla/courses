@@ -9,6 +9,7 @@ Welcome to my course website.
 - [Modern Physics](courses/modern-physics/)
 - Fourier Optics
 - Digital Holography
+- [Artificial Intelligence](courses/artificial-intelligence/)
 - [Digital Electronics and Microcontrollers](courses/digital-electronics/)
 - [Electricity and magnetism](courses/electricity-magnetism/)
 
