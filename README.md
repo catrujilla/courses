@@ -8,7 +8,7 @@ The site includes lecture slides, laboratory guides, derivations, exercises, rea
 
 Most of the materials are continuously updated throughout each semester and are intended for educational use.
 
-## About Me
+## About me
 
 I am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optical instrumentation, and engineering, and coordinate the Master’s program in Applied Physics.
 
@@ -16,7 +16,7 @@ I have also taught at Universidad Nacional de Colombia as a Graduate Teaching As
 
 Additionally, I served as Full-Time professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision.
 
-## Topics Covered
+## Topics covered
 
 Some of the topics covered through these courses include:
 
@@ -43,6 +43,9 @@ Google Scholar site:
 
 GitHub Repository:  
 <https://github.com/catrujilla/courses>
+
+catrujilla@eafit.edu.co
+catrujila@unal.edu.co
 
 ---
 This website is built using Quarto and GitHub Pages.
