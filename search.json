@@ -252,6 +252,55 @@
     "text": "Code and Resources\n\nCourse Codes and Examples"
   },
   {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html",
+    "href": "courses/artificial-intelligence/2019-1/index.html",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "",
+    "text": "This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling."
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#general-documents",
+    "href": "courses/artificial-intelligence/2019-1/index.html#general-documents",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Presentation\nAcademic Commitment\nOfficial Course Program"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#lecture-slides",
+    "href": "courses/artificial-intelligence/2019-1/index.html#lecture-slides",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nLecture 1. Introduction to Artificial Intelligence\nLecture 2. Machine Learning Techniques\nLecture 3. Feature Extraction\nLecture 4. Linear Regression and Cross-Validation"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#workshops-and-assignments",
+    "href": "courses/artificial-intelligence/2019-1/index.html#workshops-and-assignments",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Workshops and Assignments",
+    "text": "Workshops and Assignments\n\nWorkshop 1. Feature Extraction\nWorkshop 2. Linear Regression and Cross-Validation\nWorkshop 3. Gradient Descent\nWorkshop 4. Neural Networks and Deep Learning"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#reference-material",
+    "href": "courses/artificial-intelligence/2019-1/index.html#reference-material",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Reference Material",
+    "text": "Reference Material\n\nUnderstanding Machine Learning: From Theory to Algorithms\n\n\nReference Chapters\n\nChapter 1\nChapter 2\nChapter 3\nChapter 4\nChapter 5\nChapter 6\nChapter 7\nChapter 8\nChapter 9\nChapter 10\nChapter 11"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#scientific-papers-and-additional-readings",
+    "href": "courses/artificial-intelligence/2019-1/index.html#scientific-papers-and-additional-readings",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Scientific Papers and Additional Readings",
+    "text": "Scientific Papers and Additional Readings\n\nIntroduction to Feature Selection\nFeature Selection Methods Review"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#code-and-resources",
+    "href": "courses/artificial-intelligence/2019-1/index.html#code-and-resources",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Code and Resources",
+    "text": "Code and Resources\n\nCourse Codes and Examples"
+  },
+  {
     "objectID": "courses/digital-electronics/2016-2/index.html",
     "href": "courses/digital-electronics/2016-2/index.html",
     "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",

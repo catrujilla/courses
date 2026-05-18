@@ -1,0 +1,22 @@
+Inteligencia Artificial I.
+
+Quiz 1: Regresión lineal y validación cruzada (15%)
+
+Material UCI datasets
+
+En scripts de python escriba las líneas de código que lleven a cabo las siguientes tareas:
+
+1. Escoger dos datasets del repositorio UCI de regresión. Para variables seleccionadas (dos en cada dataset), determine tipo de relación. Justifique cuantitativamente su respuesta.
+
+2. Escoger un tercer dataset de regresión (en la medida de lo posible que se ajuste a una regresión lineal). Lleve a cabo un modelo de regresión lineal simple para estos datos.
+
+- Calcule el RMSE del modelo ajustado.
+- Implemente la validación cruzada para evaluar el modelo resultante.
+
+Justifique sus respuestas cuantitativamente. Haga una comparación entre los métodos de validación.
+
+Solo se evalua scripts. No envíe informe.
+
+Entregar a carlostrujillo@itm.edu.co
+
+No entregar después de las 6PM del 29 de Marzo de 2019.
