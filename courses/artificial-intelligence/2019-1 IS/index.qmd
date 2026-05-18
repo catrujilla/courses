@@ -1,0 +1,50 @@
+---
+title: "Artificial Intelligence 2019-1 (Systems Engineering)"
+---
+
+This course introduces the fundamental concepts of artificial intelligence, including classical search methods, genetic algorithms, fuzzy logic, machine learning, classification techniques, regression models, gradient descent optimization, and neural networks.  
+ITM – Institución Universitaria @2019
+
+## General Documents
+
+- [Course Presentation](info/0-Presentación_InteligenciaArtificial.pptx)
+- [Academic Commitment](info/CompromisoAcadémico_InteligenciaArtificial_2019-I.docx)
+
+## Lecture Slides
+
+- [Lecture 1. Introduction to Artificial Intelligence](Clases/1-Intro_InteligenciaArtificial.pptx)
+- [Lecture 2. Search and Classical AI Approaches](Clases/2-BúsquedaAproximación_clásica_InteligenciaArtificial.pptx)
+- [Lecture 3. Genetic Algorithms](Clases/3-AlgoritmosGenéticos_InteligenciaArtificial.pptx)
+- [Lecture 4. Fuzzy Logic](Clases/4-LógicaDifusa_InteligenciaArtificial.pptx)
+- [Lecture 5. Introduction to Machine Learning](Clases/5-IntroMachineLearning_InteligenciaArtificial.pptx)
+- [Lecture 6. Classification Methods](Clases/6-Clasificadores_InteligenciaArtificial.pptx)
+- [Lecture 7. Linear Regression and Gradient Descent](Clases/7-RegresiónLinealDescensoGradiente.pptx)
+- [Lecture 8. Neural Networks](Clases/8-RedesNeuronales.pptx)
+
+## Workshops and Assignments
+
+- [Workshop 1. Search Algorithms (DOCX)](Talleres/1_TallerBúsqueda_InteligenciaArtificial.docx)
+- [Workshop 1. Search Algorithms (PDF)](Talleres/1_TallerBúsqueda_InteligenciaArtificial.pdf)
+
+- [Workshop 2. Genetic Algorithms (DOCX)](Talleres/2_TallerAlgoritmosGenéticos_InteligenciaArtificial.docx)
+- [Workshop 2. Genetic Algorithms (PDF)](Talleres/2_TallerAlgoritmosGenéticos_InteligenciaArtificial.pdf)
+
+- [Workshop 3. Fuzzy Logic and Intro to Machine Learning (DOCX)](Talleres/3_TallerLogicaDifusaIntropMachineLearning_InteligenciaArtificial.docx)
+- [Workshop 3. Fuzzy Logic and Intro to Machine Learning (PDF)](Talleres/3_TallerLogicaDifusaIntropMachineLearning_InteligenciaArtificial.pdf)
+
+- [Workshop 4. Classification Methods (DOCX)](Talleres/4_TallerClasificación_InteligenciaArtificial.docx)
+- [Workshop 4. Classification Methods (PDF)](Talleres/4_TallerClasificación_InteligenciaArtificial.pdf)
+
+- [Workshop 5. Regression and Gradient Descent (DOCX)](Talleres/5_TallerRegresiónDescensoGradiente_InteligenciaArtificial.docx)
+- [Workshop 5. Regression and Gradient Descent (PDF)](Talleres/5_TallerRegresiónDescensoGradiente_InteligenciaArtificial.pdf)
+
+- [Workshop 6. Neural Networks (DOCX)](Talleres/6_TallerRedesNeuronales_InteligenciaArtificial.docx)
+- [Workshop 6. Neural Networks (PDF)](Talleres/6_TallerRedesNeuronales_InteligenciaArtificial.pdf)
+
+## In-Class Activities
+
+- [Class Activity - February 25, 2019](Actividades/Actividad de clase 25022019.pdf)
+
+## Code and Resources
+
+- [Course Codes and Examples](codes/codes.rar)

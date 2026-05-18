@@ -1,0 +1,10 @@
+---
+title: "Artificial Intelligence"
+---
+
+This page contains the course materials for Artificial Intelligence, organized by semester. 
+
+## Semesters
+
+- [2019-1](2019-1/)
+- [2019-1 - Systems engineering](2019-1 IS/)
