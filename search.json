@@ -161,6 +161,41 @@
     "text": "Semesters\n\n2026-1\n2025-2\n2025-1\n2024-2\n2024-1"
   },
   {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html",
+    "href": "courses/electricity-magnetism/2011-2/index.html",
+    "title": "Electricity and Magnetism 2011-2",
+    "section": "",
+    "text": "This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving."
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#general-documents",
+    "href": "courses/electricity-magnetism/2011-2/index.html#general-documents",
+    "title": "Electricity and Magnetism 2011-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Schedule\nLaboratory and Teaching Staff Schedule\nInstructor Manual"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#lecture-notes-mit-course",
+    "href": "courses/electricity-magnetism/2011-2/index.html#lecture-notes-mit-course",
+    "title": "Electricity and Magnetism 2011-2",
+    "section": "Lecture Notes (MIT Course)",
+    "text": "Lecture Notes (MIT Course)\n\nCoulomb’s Law\nElectric Potential\nGauss’s Law\nCapacitance\nElectric Current\nDC Circuits\nMagnetic Fields\nSources of Magnetic Fields\nFaraday’s Law\nInductance"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#problem-sets-and-exercises",
+    "href": "courses/electricity-magnetism/2011-2/index.html#problem-sets-and-exercises",
+    "title": "Electricity and Magnetism 2011-2",
+    "section": "Problem Sets and Exercises",
+    "text": "Problem Sets and Exercises\n\nWorkshop I - Electricity and Magnetism\nWorkshop II\nWorkshop III - Electricity and Magnetism\nWorkshop IV - Electricity and Magnetism\nBonus Exercise 1 - Partial Exam III\nBonus Exercise 2 - Partial Exam III"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#midterm-exams",
+    "href": "courses/electricity-magnetism/2011-2/index.html#midterm-exams",
+    "title": "Electricity and Magnetism 2011-2",
+    "section": "Midterm Exams",
+    "text": "Midterm Exams\n\nMidterm Exam I - August 30\nMidterm Exam I - Make-up\nMidterm Exam II - September 20\nMidterm Exam II - September 27\nMidterm Exam III - December 15\nMidterm Exam III - December 17\nMidterm Exam IV - February 7, 2012\nMidterm Exam IV - February 9, 2012"
+  },
+  {
     "objectID": "courses/digital-electronics/2017-1/index.html",
     "href": "courses/digital-electronics/2017-1/index.html",
     "title": "Digital Electronics and Microcontrollers 2017-1",
@@ -434,6 +469,20 @@
     "text": "Code and Projects\n\nCCP Test\nPort Control\nPort Control with Delay\nSerial Transmission\nTimer0 Example\nTest Project 1"
   },
   {
+    "objectID": "courses/electricity-magnetism/index.html",
+    "href": "courses/electricity-magnetism/index.html",
+    "title": "Electricity and magnetism (Physics 2)",
+    "section": "",
+    "text": "This page contains the course materials for Electricity and magnetism (Physics 2), organized by semester."
+  },
+  {
+    "objectID": "courses/electricity-magnetism/index.html#semesters",
+    "href": "courses/electricity-magnetism/index.html#semesters",
+    "title": "Electricity and magnetism (Physics 2)",
+    "section": "Semesters",
+    "text": "Semesters\n\n2015-2\n2014-2\n2011-2"
+  },
+  {
     "objectID": "courses/modern-physics/2024-2/index.html",
     "href": "courses/modern-physics/2024-2/index.html",
     "title": "Modern Physics 2024-2",
@@ -606,7 +655,7 @@
     "href": "index.html#courses",
     "title": "Carlos Trujillo course resources",
     "section": "Courses",
-    "text": "Courses\n\nModern Physics\nFourier Optics\nDigital Holography\nDigital Electronics and Microcontrollers\nTechnology Management"
+    "text": "Courses\n\nModern Physics\nFourier Optics\nDigital Holography\nDigital Electronics and Microcontrollers\nElectricity and magnetism"
   },
   {
     "objectID": "index.html#resources-in-each-course",
