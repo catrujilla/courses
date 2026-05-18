@@ -1,0 +1,44 @@
+---
+title: "Electricity and Magnetism 2011-2"
+---
+
+This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving.
+
+## General Documents
+
+- [Course Schedule](info-course/Cronograma del curso de fisica II Sem 02 2011.doc)
+- [Laboratory and Teaching Staff Schedule](info-course/´Programación de Monitores y profesores de Lab de FII.xlsx)
+- [Instructor Manual](info-course/MANUAL PROFESORES.doc)
+
+## Lecture Notes (MIT Course)
+
+- [Coulomb’s Law](Notas de Clase/chap2coulomb_law.pdf)
+- [Electric Potential](Notas de Clase/ch3electri_poten.pdf)
+- [Gauss’s Law](Notas de Clase/chapte4gauss_law.pdf)
+- [Capacitance](Notas de Clase/chap5capacitance.pdf)
+- [Electric Current](Notas de Clase/chapter6current.pdf)
+- [DC Circuits](Notas de Clase/chap7dc_circuits.pdf)
+- [Magnetic Fields](Notas de Clase/ch8magneti_field.pdf)
+- [Sources of Magnetic Fields](Notas de Clase/ch9sourc_b_field.pdf)
+- [Faraday’s Law](Notas de Clase/cha10faraday_law.pdf)
+- [Inductance](Notas de Clase/chap11inductance.pdf)
+
+## Problem Sets and Exercises
+
+- [Workshop I - Electricity and Magnetism](exercises/Taller I - Física Electricidad y Magnetismo.pdf)
+- [Workshop II](exercises/Taller II.pdf)
+- [Workshop III - Electricity and Magnetism](exercises/Taller III - Física Electricidad y Magnetismo.pdf)
+- [Workshop IV - Electricity and Magnetism](exercises/Taller IV - Física Electricidad y Magnetismo.pdf)
+- [Bonus Exercise 1 - Partial Exam III](exercises/Ejercicio1BonficadorParcial3.pdf)
+- [Bonus Exercise 2 - Partial Exam III](exercises/Ejercicio2BonficadorParcial3.pdf)
+
+## Midterm Exams
+
+- [Midterm Exam I - August 30](mid-terms/Parcial I - 30 Agosto.pdf)
+- [Midterm Exam I - Make-up](mid-terms/Parcial I - Supletorio.pdf)
+- [Midterm Exam II - September 20](mid-terms/Parcial II - 20 de Septiembre.pdf)
+- [Midterm Exam II - September 27](mid-terms/Parcial II - 27 de Septiembre.pdf)
+- [Midterm Exam III - December 15](mid-terms/Parcial III - 15 de Diciembre.pdf)
+- [Midterm Exam III - December 17](mid-terms/Parcial III - 17 de Diciembre.pdf)
+- [Midterm Exam IV - February 7, 2012](mid-terms/Parcial IV - 7 de Febrero 2012.pdf)
+- [Midterm Exam IV - February 9, 2012](mid-terms/Parcial IV - 9 de Febrero 2012.pdf)

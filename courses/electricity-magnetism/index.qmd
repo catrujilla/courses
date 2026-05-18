@@ -1,0 +1,11 @@
+---
+title: "Electricity and magnetism (Physics 2)"
+---
+
+This page contains the course materials for Electricity and magnetism (Physics 2), organized by semester. 
+
+## Semesters
+
+- [2015-2](2015-2/)
+- [2014-2](2014-2/)
+- [2011-2](2011-2/)

@@ -10,7 +10,7 @@ Welcome to my course website.
 - Fourier Optics
 - Digital Holography
 - [Digital Electronics and Microcontrollers](courses/digital-electronics/)
-- Technology Management
+- [Electricity and magnetism](courses/electricity-magnetism/)
 
 ## Resources in each course
 
