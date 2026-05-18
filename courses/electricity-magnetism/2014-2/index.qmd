@@ -1,8 +1,9 @@
 ---
-title: "Electricity and Magnetism 2014-2"
+title: "Electricity and Magnetism (Physics 2) 2014-2"
 ---
 
 This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving.
+Universidad Nacional de Colombia @2014
 
 ## General Documents
 

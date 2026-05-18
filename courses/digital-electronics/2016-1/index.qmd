@@ -1,8 +1,9 @@
 ---
-title: "Digital Electronics and Microcontrollers 2016-1"
+title: "Digital Electronics and Microcontrollers (Taller V) 2016-1"
 ---
 
 This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, interrupts, and project-based development.
+Universidad Nacional de Colombia @2016
 
 ## General Documents
 
