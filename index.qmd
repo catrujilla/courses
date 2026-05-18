@@ -6,13 +6,13 @@ Welcome to my course website.
 
 ## Courses (listed in alphabetical order)
 
-- [Artificial Intelligence](courses/artificial-intelligence/)
-- [Computer Vision](courses/computer-vision/)
-- [Digital Electronics and Microcontrollers](courses/digital-electronics/)
-- Digital Holography
+- [Artificial intelligence](courses/artificial-intelligence/)
+- [Computer vision](courses/computer-vision/)
+- [Digital electronics and microcontrollers](courses/digital-electronics/)
+- Digital holography
 - [Electricity and magnetism](courses/electricity-magnetism/)
-- Fourier Optics
-- [Modern Physics](courses/modern-physics/)
+- Fourier optics
+- [Modern physics](courses/modern-physics/)
 
 ## Resources in each course
 

@@ -9,7 +9,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About This Site",
+    "title": "About this site",
     "section": "",
     "text": "This website was created to provide open and free access to the academic materials used in the courses I teach in physics, optical instrumentation, engineering, and applied sciences.\nThe site includes lecture slides, laboratory guides, derivations, exercises, readings, and additional resources organized by course and semester. Its main purpose is to support students during their learning process and to promote accessible scientific education.\nMost of the materials are continuously updated throughout each semester and are intended for educational use."
   },
@@ -144,7 +144,7 @@
     "href": "index.html#resources-in-each-course",
     "title": "Carlos Trujillo course resources",
     "section": "Resources in each course",
-    "text": "Resources in each course\n\nLecture slides\nMATLAB codes\nPython scripts\nDatasets\nPapers\nAnd other specific files depending on the course"
+    "text": "Resources in each course\n\nLecture slides\nMATLAB codes\nPython scripts\nPapers\nAnd other specific files depending on the course"
   },
   {
     "objectID": "courses/modern-physics/2026-1/index.html#lecture-slides",
@@ -289,23 +289,23 @@
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
-    "title": "About This Site",
-    "section": "About Me",
-    "text": "About Me\nI am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optical instrumentation, and engineering, and coordinate the Master’s program in Applied Physics.\nI have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.\nAdditionally, I served as Full-Time professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision."
+    "title": "About this site",
+    "section": "About me",
+    "text": "About me\nI am a physics engineer and professor working in optical instrumentation, computational imaging, and applied physics. I currently serve as Full Professor at Universidad EAFIT, where I teach undergraduate and graduate courses in physics, optical instrumentation, and engineering, and coordinate the Master’s program in Applied Physics.\nI have also taught at Universidad Nacional de Colombia as a Graduate Teaching Assistant (Monitor Académico de Posgrado), leading theoretical and laboratory sessions in electromagnetism, digital electronics, and microcontrollers.\nAdditionally, I served as Full-Time professor at Instituto Tecnológico Metropolitano (ITM), teaching courses in artificial intelligence, machine learning, and computer vision."
   },
   {
     "objectID": "about.html#topics-covered",
     "href": "about.html#topics-covered",
-    "title": "About This Site",
-    "section": "Topics Covered",
-    "text": "Topics Covered\nSome of the topics covered through these courses include:\n\nModern Physics\nOptics and Photonics\nFourier Optics\nDigital electronics\nMicrocontrollers\nElectromagnetism\nComputational Imaging\nArtificial Intelligence for Science and Engineering"
+    "title": "About this site",
+    "section": "Topics covered",
+    "text": "Topics covered\nSome of the topics covered through these courses include:\n\nModern Physics\nOptics and Photonics\nFourier Optics\nDigital electronics\nMicrocontrollers\nElectromagnetism\nComputational Imaging\nArtificial Intelligence for Science and Engineering"
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About This Site",
+    "title": "About this site",
     "section": "Contact",
-    "text": "Contact\nCarlos Alejandro Trujillo Anaya Universidad EAFIT Medellín, Colombia\nInstitutional web page:\nhttps://www.eafit.edu.co/nuestros-profesores/carlos-alejandro-trujillo-anaya\nGoogle Scholar site:\nhttps://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en&oi=ao\nGitHub Repository:\nhttps://github.com/catrujilla/courses\n\nThis website is built using Quarto and GitHub Pages."
+    "text": "Contact\nCarlos Alejandro Trujillo Anaya\nUniversidad EAFIT\nMedellín, Colombia\nInstitutional web page:\nhttps://www.eafit.edu.co/nuestros-profesores/carlos-alejandro-trujillo-anaya\nGoogle Scholar site:\nhttps://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=en&oi=ao\nGitHub Repository:\nhttps://github.com/catrujilla/courses\ncatrujilla@eafit.edu.co\ncatrujila@unal.edu.co\n\nThis website is built using Quarto and GitHub Pages."
   },
   {
     "objectID": "courses/modern-physics/2025-1/index.html",
@@ -485,218 +485,540 @@
   {
     "objectID": "courses/digital-electronics/2013-2/index.html",
     "href": "courses/digital-electronics/2013-2/index.html",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2013-2",
     "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, PCB design, and final project development."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, PCB design, and final project development. Universidad Nacional de Colombia @2013"
   },
   {
     "objectID": "courses/digital-electronics/2013-2/index.html#general-documents",
     "href": "courses/digital-electronics/2013-2/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2013-2",
     "section": "General Documents",
     "text": "General Documents\n\nCourse Content\nProject Description\nCircuit Fabrication Guidelines\nFinal Project Report I - Example 1\nFinal Project Report I - Example 2\nFinal Project Submission"
   },
   {
     "objectID": "courses/digital-electronics/2013-2/index.html#lectures",
     "href": "courses/digital-electronics/2013-2/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2013-2",
     "section": "Lectures",
     "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion"
   },
   {
     "objectID": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
     "href": "courses/digital-electronics/2013-2/index.html#lecture-annexes",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2013-2",
     "section": "Lecture Annexes",
     "text": "Lecture Annexes\n\nAnnex I. Memories\nPCB Design and Fabrication"
   },
   {
     "objectID": "courses/digital-electronics/2013-2/index.html#lab-guides",
     "href": "courses/digital-electronics/2013-2/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2013-2",
     "section": "Lab Guides",
     "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
   },
   {
     "objectID": "courses/digital-electronics/2013-2/index.html#code-and-projects",
     "href": "courses/digital-electronics/2013-2/index.html#code-and-projects",
-    "title": "Digital Electronics and Microcontrollers 2013-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2013-2",
     "section": "Code and Projects",
     "text": "Code and Projects\n\nMicrocontroller Test Project"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html",
     "href": "courses/digital-electronics/2011-1/index.html",
-    "title": "Digital Electronics and Microcontrollers 2011-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2011-1",
     "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, peripherals, and final project development."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, peripherals, and final project development. Universidad Nacional de Colombia @2011"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html#general-documents",
     "href": "courses/digital-electronics/2011-1/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2011-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2011-1",
     "section": "General Documents",
     "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nFinal Report Structure\nProject Proposal Format\nIEEE Report Template\nFinal Projects Presentation"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html#lectures",
     "href": "courses/digital-electronics/2011-1/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2011-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2011-1",
     "section": "Lectures",
     "text": "Lectures\n\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html#lecture-annexes",
     "href": "courses/digital-electronics/2011-1/index.html#lecture-annexes",
-    "title": "Digital Electronics and Microcontrollers 2011-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2011-1",
     "section": "Lecture Annexes",
     "text": "Lecture Annexes\n\nAnnex I. Memories\nAnnex II. Motors\nAnnex III. Workshop V Projects\nAnnex IV. Project Grading"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html#lab-guides",
     "href": "courses/digital-electronics/2011-1/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2011-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2011-1",
     "section": "Lab Guides",
     "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII\nLab IX\nLab X"
   },
   {
     "objectID": "courses/digital-electronics/2011-1/index.html#code-and-simulations",
     "href": "courses/digital-electronics/2011-1/index.html#code-and-simulations",
-    "title": "Digital Electronics and Microcontrollers 2011-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2011-1",
     "section": "Code and Simulations",
     "text": "Code and Simulations\n\nCommon code files\nPractices I–III simulations\nPractice IV code\nPractice V code\nPractice VI code\nPractice VII code\nPractice VIII code\nPractice IX code\nPractice X code"
   },
   {
     "objectID": "courses/digital-electronics/2016-1/index.html",
     "href": "courses/digital-electronics/2016-1/index.html",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-1",
     "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, interrupts, and project-based development."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, interrupts, and project-based development. Universidad Nacional de Colombia @2016"
   },
   {
     "objectID": "courses/digital-electronics/2016-1/index.html#general-documents",
     "href": "courses/digital-electronics/2016-1/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-1",
     "section": "General Documents",
     "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nDigital Electronics Manual\nPIC18F2580 Datasheet"
   },
   {
     "objectID": "courses/digital-electronics/2016-1/index.html#lectures",
     "href": "courses/digital-electronics/2016-1/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-1",
     "section": "Lectures",
     "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion\nAnnex I. Memories"
   },
   {
     "objectID": "courses/digital-electronics/2016-1/index.html#lab-guides",
     "href": "courses/digital-electronics/2016-1/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-1",
     "section": "Lab Guides",
     "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII"
   },
   {
     "objectID": "courses/digital-electronics/2016-1/index.html#quizzes",
     "href": "courses/digital-electronics/2016-1/index.html#quizzes",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-1",
     "section": "Quizzes",
     "text": "Quizzes\n\nQuiz 1\nQuiz 2\nQuiz 4\nQuiz 5\nQuiz 5A\nQuiz 6\nQuiz 7\nQuiz 8"
   },
   {
     "objectID": "courses/digital-electronics/2016-1/index.html#code-and-projects",
     "href": "courses/digital-electronics/2016-1/index.html#code-and-projects",
-    "title": "Digital Electronics and Microcontrollers 2016-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-1",
     "section": "Code and Projects",
     "text": "Code and Projects\n\nPIC16F Analog-to-Digital Conversion\nActuators Control\nAnalog-to-Digital Conversion\nInterrupts\nFirst Project\nFirst Project 1\nMicrocontroller Test Project\nSecond Project\nRS232 Serial Communication"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html",
     "href": "courses/digital-electronics/2016-2/index.html",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, timers, serial communication, analog-to-digital conversion, CCP modules, and project-based development."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, timers, serial communication, analog-to-digital conversion, CCP modules, and project-based development. Universidad Nacional de Colombia @2016"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html#general-documents",
     "href": "courses/digital-electronics/2016-2/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "General Documents",
     "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nFinal Exam\nPIC18F252 Datasheet\nCCP and ECCP Tips and Tricks"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html#lectures",
     "href": "courses/digital-electronics/2016-2/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "Lectures",
     "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. Serial Communication\nLecture 6. Analog-to-Digital Conversion\nAnnex I. Memories"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html#lab-guides",
     "href": "courses/digital-electronics/2016-2/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "Lab Guides",
     "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VII"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html#assignments",
     "href": "courses/digital-electronics/2016-2/index.html#assignments",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "Assignments",
     "text": "Assignments\n\nADC Conversion Assignment"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html#quizzes",
     "href": "courses/digital-electronics/2016-2/index.html#quizzes",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "Quizzes",
     "text": "Quizzes\n\nQuiz 1\nQuiz 2\nQuiz 3\nQuiz 4\nQuiz 5"
   },
   {
     "objectID": "courses/digital-electronics/2016-2/index.html#code-and-projects",
     "href": "courses/digital-electronics/2016-2/index.html#code-and-projects",
-    "title": "Digital Electronics and Microcontrollers 2016-2",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2016-2",
     "section": "Code and Projects",
     "text": "Code and Projects\n\nCCP Test\nPort Control\nPort Control with Delay\nSerial Transmission\nTimer0 Example\nTest Project 1"
   },
   {
     "objectID": "courses/digital-electronics/2017-1/index.html",
     "href": "courses/digital-electronics/2017-1/index.html",
-    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-1",
     "section": "",
-    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, PCB design, embedded programming, serial communication, analog-to-digital conversion, timers, PWM control, and project-based development."
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, PCB design, embedded programming, serial communication, analog-to-digital conversion, timers, PWM control, and project-based development. Universidad Nacional de Colombia @2017"
   },
   {
     "objectID": "courses/digital-electronics/2017-1/index.html#general-documents",
     "href": "courses/digital-electronics/2017-1/index.html#general-documents",
-    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-1",
     "section": "General Documents",
     "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nCreating Cheap Circuit Boards"
   },
   {
     "objectID": "courses/digital-electronics/2017-1/index.html#lectures",
     "href": "courses/digital-electronics/2017-1/index.html#lectures",
-    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-1",
     "section": "Lectures",
     "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. PCB Circuit Design\nLecture 5. Microcontrollers\nLecture 6. Serial Communication\nLecture 7. Analog-to-Digital Conversion"
   },
   {
     "objectID": "courses/digital-electronics/2017-1/index.html#lab-guides",
     "href": "courses/digital-electronics/2017-1/index.html#lab-guides",
-    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-1",
     "section": "Lab Guides",
     "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII\nLab IX"
   },
   {
     "objectID": "courses/digital-electronics/2017-1/index.html#exams",
     "href": "courses/digital-electronics/2017-1/index.html#exams",
-    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-1",
     "section": "Exams",
     "text": "Exams\n\nFinal Exam"
   },
   {
     "objectID": "courses/digital-electronics/2017-1/index.html#code-and-projects",
     "href": "courses/digital-electronics/2017-1/index.html#code-and-projects",
-    "title": "Digital Electronics and Microcontrollers 2017-1",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-1",
     "section": "Code and Projects",
     "text": "Code and Projects\n\nADC Test\nPWM Example\nSerial Communication Test\nTimer2 Example"
+  },
+  {
+    "objectID": "index.html#courses-listed-in-alphabetical-order",
+    "href": "index.html#courses-listed-in-alphabetical-order",
+    "title": "Carlos Trujillo course resources",
+    "section": "Courses (listed in alphabetical order)",
+    "text": "Courses (listed in alphabetical order)\n\nArtificial intelligence\nComputer vision\nDigital electronics and microcontrollers\nDigital holography\nElectricity and magnetism\nFourier optics\nModern physics"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2015-2/index.html",
+    "href": "courses/electricity-magnetism/2015-2/index.html",
+    "title": "Electricity and Magnetism (Physics 2) 2015-2",
+    "section": "",
+    "text": "This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving. Universidad Nacional de Colombia @2015"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2015-2/index.html#general-documents",
+    "href": "courses/electricity-magnetism/2015-2/index.html#general-documents",
+    "title": "Electricity and Magnetism (Physics 2) 2015-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Program\nExcuse Format"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2015-2/index.html#lecture-notes-mit-course",
+    "href": "courses/electricity-magnetism/2015-2/index.html#lecture-notes-mit-course",
+    "title": "Electricity and Magnetism (Physics 2) 2015-2",
+    "section": "Lecture Notes (MIT Course)",
+    "text": "Lecture Notes (MIT Course)\n\nCoulomb’s Law\nElectric Potential\nGauss’s Law\nCapacitance\nElectric Current\nDC Circuits\nMagnetic Fields\nSources of Magnetic Fields\nFaraday’s Law\nInductance"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2015-2/index.html#problem-sets-and-exercises",
+    "href": "courses/electricity-magnetism/2015-2/index.html#problem-sets-and-exercises",
+    "title": "Electricity and Magnetism (Physics 2) 2015-2",
+    "section": "Problem Sets and Exercises",
+    "text": "Problem Sets and Exercises\n\nWorkshop I\nWorkshop II\nWorkshop III\nWorkshop IV - Part A\nWorkshop IV - Part B\nInteresting Exercises for Workshop IV\nInteresting Exercises for Workshop IV - Solutions\nMagnetism Bonus Exercise"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2015-2/index.html#midterm-exams",
+    "href": "courses/electricity-magnetism/2015-2/index.html#midterm-exams",
+    "title": "Electricity and Magnetism (Physics 2) 2015-2",
+    "section": "Midterm Exams",
+    "text": "Midterm Exams\n\nMidterm Exam I - Version L\nMidterm Exam I - Version M\nMidterm Exam I - Make-up\nMidterm Exam II - Version H\nMidterm Exam II - Version I\nMidterm Exam II - Make-up\nMidterm Exam III - Version J\nMidterm Exam III - Version K\nMidterm Exam III - Make-up I\nMidterm Exam III - Make-up II\nMidterm Exam IV\nInteresting Midterm Exam IV"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html",
+    "href": "courses/electricity-magnetism/2011-2/index.html",
+    "title": "Electricity and Magnetism (Physics 2) 2011-2",
+    "section": "",
+    "text": "This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving. Universidad Nacional de Colombia @2011"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#general-documents",
+    "href": "courses/electricity-magnetism/2011-2/index.html#general-documents",
+    "title": "Electricity and Magnetism (Physics 2) 2011-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Schedule\nLaboratory and Teaching Staff Schedule\nInstructor Manual"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#lecture-notes-mit-course",
+    "href": "courses/electricity-magnetism/2011-2/index.html#lecture-notes-mit-course",
+    "title": "Electricity and Magnetism (Physics 2) 2011-2",
+    "section": "Lecture Notes (MIT Course)",
+    "text": "Lecture Notes (MIT Course)\n\nCoulomb’s Law\nElectric Potential\nGauss’s Law\nCapacitance\nElectric Current\nDC Circuits\nMagnetic Fields\nSources of Magnetic Fields\nFaraday’s Law\nInductance"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#problem-sets-and-exercises",
+    "href": "courses/electricity-magnetism/2011-2/index.html#problem-sets-and-exercises",
+    "title": "Electricity and Magnetism (Physics 2) 2011-2",
+    "section": "Problem Sets and Exercises",
+    "text": "Problem Sets and Exercises\n\nWorkshop I - Electricity and Magnetism\nWorkshop II\nWorkshop III - Electricity and Magnetism\nWorkshop IV - Electricity and Magnetism\nBonus Exercise 1 - Partial Exam III\nBonus Exercise 2 - Partial Exam III"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2011-2/index.html#midterm-exams",
+    "href": "courses/electricity-magnetism/2011-2/index.html#midterm-exams",
+    "title": "Electricity and Magnetism (Physics 2) 2011-2",
+    "section": "Midterm Exams",
+    "text": "Midterm Exams\n\nMidterm Exam I - August 30\nMidterm Exam I - Make-up\nMidterm Exam II - September 20\nMidterm Exam II - September 27\nMidterm Exam III - December 15\nMidterm Exam III - December 17\nMidterm Exam IV - February 7, 2012\nMidterm Exam IV - February 9, 2012"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html",
+    "href": "courses/computer-vision/2019-1/index.html",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "",
+    "text": "This course introduces the fundamental concepts of computer vision, including image processing, camera models, feature extraction and matching, motion detection, object tracking, and image classification, with emphasis on practical applications and computational methods.\nITM – Institución Universitaria @2019"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#general-documents",
+    "href": "courses/computer-vision/2019-1/index.html#general-documents",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nAcademic Commitment\nOfficial Course Program"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#lecture-slides",
+    "href": "courses/computer-vision/2019-1/index.html#lecture-slides",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nLecture 0. Course Presentation\nLecture 1. Image Processing\nLecture 2. Camera Models and Views\nLecture 3. Feature Matching\nLecture 4. Motion in Images\nLecture 5. Object Tracking\nLecture 6. Image Classification"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#workshops-and-assignments",
+    "href": "courses/computer-vision/2019-1/index.html#workshops-and-assignments",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "Workshops and Assignments",
+    "text": "Workshops and Assignments\n\nWorkshop 1. Image Processing\nWorkshop 3. Feature Extraction and Motion Detection\nWorkshop 4. Tracking\nWorkshop 5. Classification"
+  },
+  {
+    "objectID": "courses/computer-vision/2019-1/index.html#code-and-resources",
+    "href": "courses/computer-vision/2019-1/index.html#code-and-resources",
+    "title": "Computer Vision (Visión Artificial) 2019-1",
+    "section": "Code and Resources",
+    "text": "Code and Resources\n\nCourse Codes and Examples"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1 IS/index.html",
+    "href": "courses/artificial-intelligence/2019-1 IS/index.html",
+    "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
+    "section": "",
+    "text": "This course introduces the fundamental concepts of artificial intelligence, including classical search methods, genetic algorithms, fuzzy logic, machine learning, classification techniques, regression models, gradient descent optimization, and neural networks.\nITM – Institución Universitaria @2019"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1 IS/index.html#general-documents",
+    "href": "courses/artificial-intelligence/2019-1 IS/index.html#general-documents",
+    "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Presentation\nAcademic Commitment"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1 IS/index.html#lecture-slides",
+    "href": "courses/artificial-intelligence/2019-1 IS/index.html#lecture-slides",
+    "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nLecture 1. Introduction to Artificial Intelligence\nLecture 2. Search and Classical AI Approaches\nLecture 3. Genetic Algorithms\nLecture 4. Fuzzy Logic\nLecture 5. Introduction to Machine Learning\nLecture 6. Classification Methods\nLecture 7. Linear Regression and Gradient Descent\nLecture 8. Neural Networks"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1 IS/index.html#workshops-and-assignments",
+    "href": "courses/artificial-intelligence/2019-1 IS/index.html#workshops-and-assignments",
+    "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
+    "section": "Workshops and Assignments",
+    "text": "Workshops and Assignments\n\nWorkshop 1. Search Algorithms (DOCX)\nWorkshop 1. Search Algorithms (PDF)\nWorkshop 2. Genetic Algorithms (DOCX)\nWorkshop 2. Genetic Algorithms (PDF)\nWorkshop 3. Fuzzy Logic and Intro to Machine Learning (DOCX)\nWorkshop 3. Fuzzy Logic and Intro to Machine Learning (PDF)\nWorkshop 4. Classification Methods (DOCX)\nWorkshop 4. Classification Methods (PDF)\nWorkshop 5. Regression and Gradient Descent (DOCX)\nWorkshop 5. Regression and Gradient Descent (PDF)\nWorkshop 6. Neural Networks (DOCX)\nWorkshop 6. Neural Networks (PDF)"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1 IS/index.html#in-class-activities",
+    "href": "courses/artificial-intelligence/2019-1 IS/index.html#in-class-activities",
+    "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
+    "section": "In-Class Activities",
+    "text": "In-Class Activities\n\nClass Activity - February 25, 2019"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1 IS/index.html#code-and-resources",
+    "href": "courses/artificial-intelligence/2019-1 IS/index.html#code-and-resources",
+    "title": "Artificial Intelligence 2019-1 (Systems Engineering)",
+    "section": "Code and Resources",
+    "text": "Code and Resources\n\nCourse Codes and Examples"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html",
+    "href": "courses/artificial-intelligence/2019-1/index.html",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "",
+    "text": "This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling.\nITM – Institución Universitaria @2019"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#general-documents",
+    "href": "courses/artificial-intelligence/2019-1/index.html#general-documents",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Presentation\nAcademic Commitment\nOfficial Course Program"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#lecture-slides",
+    "href": "courses/artificial-intelligence/2019-1/index.html#lecture-slides",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nLecture 1. Introduction to Artificial Intelligence\nLecture 2. Machine Learning Techniques\nLecture 3. Feature Extraction\nLecture 4. Linear Regression and Cross-Validation"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#workshops-and-assignments",
+    "href": "courses/artificial-intelligence/2019-1/index.html#workshops-and-assignments",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Workshops and Assignments",
+    "text": "Workshops and Assignments\n\nWorkshop 1. Feature Extraction\nWorkshop 2. Linear Regression and Cross-Validation\nWorkshop 3. Gradient Descent\nWorkshop 4. Neural Networks and Deep Learning"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#reference-material",
+    "href": "courses/artificial-intelligence/2019-1/index.html#reference-material",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Reference Material",
+    "text": "Reference Material\n\nUnderstanding Machine Learning: From Theory to Algorithms\n\n\nReference Chapters\n\nChapter 1\nChapter 2\nChapter 3\nChapter 4\nChapter 5\nChapter 6\nChapter 7\nChapter 8\nChapter 9\nChapter 10\nChapter 11"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#scientific-papers-and-additional-readings",
+    "href": "courses/artificial-intelligence/2019-1/index.html#scientific-papers-and-additional-readings",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Scientific Papers and Additional Readings",
+    "text": "Scientific Papers and Additional Readings\n\nIntroduction to Feature Selection\nFeature Selection Methods Review"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/2019-1/index.html#code-and-resources",
+    "href": "courses/artificial-intelligence/2019-1/index.html#code-and-resources",
+    "title": "Artificial Intelligence I 2019-1",
+    "section": "Code and Resources",
+    "text": "Code and Resources\n\nCourse Codes and Examples"
+  },
+  {
+    "objectID": "courses/artificial-intelligence/index.html",
+    "href": "courses/artificial-intelligence/index.html",
+    "title": "Artificial Intelligence",
+    "section": "",
+    "text": "This page contains the course materials for Artificial Intelligence, organized by semester."
+  },
+  {
+    "objectID": "courses/artificial-intelligence/index.html#semesters",
+    "href": "courses/artificial-intelligence/index.html#semesters",
+    "title": "Artificial Intelligence",
+    "section": "Semesters",
+    "text": "Semesters\n\n2019-1\n2019-1 - Systems engineering"
+  },
+  {
+    "objectID": "courses/computer-vision/index.html",
+    "href": "courses/computer-vision/index.html",
+    "title": "Computer Vision",
+    "section": "",
+    "text": "This page contains the course materials for Computer Vision (Visión Artificial), organized by semester."
+  },
+  {
+    "objectID": "courses/computer-vision/index.html#semesters",
+    "href": "courses/computer-vision/index.html#semesters",
+    "title": "Computer Vision",
+    "section": "Semesters",
+    "text": "Semesters\n\n2019-1"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-2/index.html",
+    "href": "courses/digital-electronics/2017-2/index.html",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-2",
+    "section": "",
+    "text": "This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, PCB design, embedded programming, serial communication, analog-to-digital conversion, timers, PWM control, and project-based development. Universidad Nacional de Colombia @2017"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-2/index.html#general-documents",
+    "href": "courses/digital-electronics/2017-2/index.html#general-documents",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Content\nProject Evaluation Criteria\nCreating Cheap Circuit Boards\nFirst Project Submission\nSecond Project Submission\nThird Project Submission"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-2/index.html#lectures",
+    "href": "courses/digital-electronics/2017-2/index.html#lectures",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-2",
+    "section": "Lectures",
+    "text": "Lectures\n\nLecture 0. Course Presentation\nLecture 1. Introduction to the Digital World\nLecture 2. Combinational Systems\nLecture 3. Sequential Systems\nLecture 4. Microcontrollers\nLecture 5. PCB Circuit Design\nLecture 6. Serial Communication\nLecture 7. Analog-to-Digital Conversion"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-2/index.html#lab-guides",
+    "href": "courses/digital-electronics/2017-2/index.html#lab-guides",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-2",
+    "section": "Lab Guides",
+    "text": "Lab Guides\n\nLab I\nLab II\nLab III\nLab IV\nLab V\nLab VI\nLab VII\nLab VIII\nLab IX"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-2/index.html#exams",
+    "href": "courses/digital-electronics/2017-2/index.html#exams",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-2",
+    "section": "Exams",
+    "text": "Exams\n\nFinal Exam\nMake-up Final Exam"
+  },
+  {
+    "objectID": "courses/digital-electronics/2017-2/index.html#code-and-projects",
+    "href": "courses/digital-electronics/2017-2/index.html#code-and-projects",
+    "title": "Digital Electronics and Microcontrollers (Taller V) 2017-2",
+    "section": "Code and Projects",
+    "text": "Code and Projects\n\nCCP Module Example\nDifferent Frequencies Example"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2014-2/index.html",
+    "href": "courses/electricity-magnetism/2014-2/index.html",
+    "title": "Electricity and Magnetism (Physics 2) 2014-2",
+    "section": "",
+    "text": "This course introduces the fundamental principles of electricity and magnetism, including electrostatics, electric potential, capacitance, electric circuits, magnetic fields, electromagnetic induction, and Maxwell’s equations, with emphasis on conceptual understanding and problem solving. Universidad Nacional de Colombia @2014"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2014-2/index.html#general-documents",
+    "href": "courses/electricity-magnetism/2014-2/index.html#general-documents",
+    "title": "Electricity and Magnetism (Physics 2) 2014-2",
+    "section": "General Documents",
+    "text": "General Documents\n\nCourse Program\nClassroom Distribution for Midterm Exam I"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2014-2/index.html#lecture-notes-mit-course",
+    "href": "courses/electricity-magnetism/2014-2/index.html#lecture-notes-mit-course",
+    "title": "Electricity and Magnetism (Physics 2) 2014-2",
+    "section": "Lecture Notes (MIT Course)",
+    "text": "Lecture Notes (MIT Course)\n\nCoulomb’s Law\nElectric Potential\nGauss’s Law\nCapacitance\nElectric Current\nDC Circuits\nMagnetic Fields\nSources of Magnetic Fields\nFaraday’s Law\nInductance"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2014-2/index.html#problem-sets-and-exercises",
+    "href": "courses/electricity-magnetism/2014-2/index.html#problem-sets-and-exercises",
+    "title": "Electricity and Magnetism (Physics 2) 2014-2",
+    "section": "Problem Sets and Exercises",
+    "text": "Problem Sets and Exercises\n\nWorkshop I\nWorkshop II\nWorkshop III\nWorkshop IV"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/2014-2/index.html#midterm-exams",
+    "href": "courses/electricity-magnetism/2014-2/index.html#midterm-exams",
+    "title": "Electricity and Magnetism (Physics 2) 2014-2",
+    "section": "Midterm Exams",
+    "text": "Midterm Exams\n\nMidterm Exam I\nMidterm Exam I - Make-up\nMidterm Exam III - Make-up Version 1\nMidterm Exam III - Make-up Version 2\nMidterm Exam IV - Type I\nMidterm Exam IV - Type II"
+  },
+  {
+    "objectID": "courses/electricity-magnetism/index.html",
+    "href": "courses/electricity-magnetism/index.html",
+    "title": "Electricity and magnetism (Physics 2)",
+    "section": "",
+    "text": "This page contains the course materials for Electricity and magnetism (Physics 2), organized by semester."
+  },
+  {
+    "objectID": "courses/electricity-magnetism/index.html#semesters",
+    "href": "courses/electricity-magnetism/index.html#semesters",
+    "title": "Electricity and magnetism (Physics 2)",
+    "section": "Semesters",
+    "text": "Semesters\n\n2015-2\n2014-2\n2011-2"
   }
 ]
