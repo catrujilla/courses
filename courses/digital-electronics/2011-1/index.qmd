@@ -1,0 +1,53 @@
+---
+title: "Digital Electronics and Microcontrollers 2011-1"
+---
+
+This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, peripherals, and final project development.
+
+## General Documents
+
+- [Course Content](docs/Contenido Asignatura Taller V.pdf)
+- [Project Evaluation Criteria](docs/Criterios+de+Evaluación+de+Proyectos.doc)
+- [Final Report Structure](docs/Estructura_Informe_Final.txt)
+- [Project Proposal Format](docs/Formato de Anteproyecto basado en formato de TDG en Escuela de Física.doc)
+- [IEEE Report Template](docs/instructIEEEesp_Plantilla.doc)
+- [Final Projects Presentation](docs/ProyectosFinales_TallerV_IF.pptx)
+
+## Lectures
+
+- [Lecture 1. Introduction to the Digital World](lectures/1-Introducción al mundo digital.pdf)
+- [Lecture 2. Combinational Systems](lectures/2-Sistemas Combinacionales.pdf)
+- [Lecture 3. Sequential Systems](lectures/3-Sistemas Secuenciales.pdf)
+- [Lecture 4. Microcontrollers](lectures/4-Microcontroladores.pdf)
+
+## Lecture Annexes
+
+- [Annex I. Memories](lectures/AnexoI-Memorias.pdf)
+- [Annex II. Motors](lectures/AnexoII-Motores.pdf)
+- [Annex III. Workshop V Projects](lectures/AnexoIII-Proyectos Taller V.pdf)
+- [Annex IV. Project Grading](lectures/AnexoIV-Calificación Proyecto.pdf)
+
+## Lab Guides
+
+- [Lab I](lab-guides/Práctica I.pdf)
+- [Lab II](lab-guides/Práctica II.pdf)
+- [Lab III](lab-guides/Práctica III.pdf)
+- [Lab IV](lab-guides/Práctica IV.pdf)
+- [Lab V](lab-guides/Práctica V.pdf)
+- [Lab VI](lab-guides/Práctica VI.pdf)
+- [Lab VII](lab-guides/Práctica VII.pdf)
+- [Lab VIII](lab-guides/Práctica VIII.pdf)
+- [Lab IX](lab-guides/Práctica IX.pdf)
+- [Lab X](lab-guides/Práctica X.pdf)
+
+## Code and Simulations
+
+- [Common code files](codes/)
+- [Practices I–III simulations](codes/Prácticas I-III/)
+- [Practice IV code](codes/Práctica IV/)
+- [Practice V code](codes/Práctica V/)
+- [Practice VI code](codes/Práctica VI/)
+- [Practice VII code](codes/Práctica VII/)
+- [Practice VIII code](codes/Práctica VIII/)
+- [Practice IX code](codes/Práctica IX/)
+- [Practice X code](codes/Práctica X/)

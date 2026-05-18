@@ -1,0 +1,19 @@
+# MPLAB IDE generated this makefile for use with Microsoft `nmake'.
+# Project: practica1.mcp
+# Date: Wed Mar 02 14:39:24 2011
+
+AS = MPASMWIN.exe
+CC = 
+LD = mplink.exe
+AR = mplib.exe
+RM = del
+
+"practica1.cof" : "16F883TMPO.o"
+	$(CC) /p16F883 "16F883TMPO.o" /u_DEBUG /z__MPLAB_BUILD=1 /z__MPLAB_DEBUG=1 /o"practica1.cof" /M"practica1.map" /W
+
+"16F883TMPO.o" : "16F883TMPO.ASM" "C:\Archivos de programa\Microchip\MPASM Suite\p16f883.inc"
+	$(AS) /q /p16F883 "16F883TMPO.ASM" /l"16F883TMPO.lst" /e"16F883TMPO.err" /o"16F883TMPO.o" /d__DEBUG=1
+
+"clean" : 
+	$(CC) "16F883TMPO.o" "16F883TMPO.err" "16F883TMPO.lst" "practica1.cof" "practica1.hex"
+
