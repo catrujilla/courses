@@ -1,0 +1,57 @@
+---
+title: "Digital Electronics and Microcontrollers 2016-1"
+---
+
+This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, interrupts, and project-based development.
+
+## General Documents
+
+- [Course Content](docs/Contenido Asignatura Taller V de Ingeniería Física.pdf)
+- [Project Evaluation Criteria](docs/Criterios+de+Evaluación+de+Proyectos+2016.pdf)
+- [Digital Electronics Manual](docs/Manual electronica digital (Spanish).pdf)
+- [PIC18F2580 Datasheet](docs/PIC18F2580.pdf)
+
+## Lectures
+
+- [Lecture 0. Course Presentation](lectures/0-Presentación.pptx)
+- [Lecture 1. Introduction to the Digital World](lectures/1-Introducción al mundo digital.pptx)
+- [Lecture 2. Combinational Systems](lectures/2-Sistemas Combinacionales.pptx)
+- [Lecture 3. Sequential Systems](lectures/3-Sistemas Secuenciales.pptx)
+- [Lecture 4. Microcontrollers](lectures/4-Microcontroladores.pptx)
+- [Lecture 5. Serial Communication](lectures/5-Comunicación Serial.pptx)
+- [Lecture 6. Analog-to-Digital Conversion](lectures/6-Conversión Análogo-Digital.pptx)
+- [Annex I. Memories](lectures/AnexoI-Memorias.pptx)
+
+## Lab Guides
+
+- [Lab I](lab-guides/Práctica I.pdf)
+- [Lab II](lab-guides/Práctica II.pdf)
+- [Lab III](lab-guides/Práctica III.pdf)
+- [Lab IV](lab-guides/Práctica IV.pdf)
+- [Lab V](lab-guides/Práctica V.pdf)
+- [Lab VI](lab-guides/Práctica VI.pdf)
+- [Lab VII](lab-guides/Práctica VII.pdf)
+- [Lab VIII](lab-guides/Práctica VIII.pdf)
+
+## Quizzes
+
+- [Quiz 1](quices/QUIZ1.docx)
+- [Quiz 2](quices/QUIZ2.docx)
+- [Quiz 4](quices/QUIZ4.docx)
+- [Quiz 5](quices/QUIZ5.docx)
+- [Quiz 5A](quices/QUIZ5A.docx)
+- [Quiz 6](quices/QUIZ6.docx)
+- [Quiz 7](quices/QUIZ7.docx)
+- [Quiz 8](quices/QUIZ8.docx)
+
+## Code and Projects
+
+- [PIC16F Analog-to-Digital Conversion](codes/(PIC16F)ConversionAD.X.rar)
+- [Actuators Control](codes/ActuatorsControl_MPLAB_V_0.1.rar)
+- [Analog-to-Digital Conversion](codes/ConversionAD.X.rar)
+- [Interrupts](codes/Interrupciones.X.rar)
+- [First Project](codes/PrimerProyecto.X.rar)
+- [First Project 1](codes/PrimerProyecto1.X.rar)
+- [Microcontroller Test Project](codes/PruebaFuncionamiento1.X.rar)
+- [Second Project](codes/SegundoProyecto.X.rar)
+- [RS232 Serial Communication](codes/Serial_RS232.X.rar)
