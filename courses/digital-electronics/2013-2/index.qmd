@@ -1,0 +1,44 @@
+---
+title: "Digital Electronics and Microcontrollers 2013-2"
+---
+
+This course introduces the fundamentals of digital electronics and microcontroller-based systems, including combinational and sequential logic, memory devices, embedded programming, serial communication, analog-to-digital conversion, PCB design, and final project development.
+
+## General Documents
+
+- [Course Content](docs/Contenido Asignatura Taller V de Ingeniería Física.pdf)
+- [Project Description](docs/Descripción Proyectos.pdf)
+- [Circuit Fabrication Guidelines](docs/ELABORACIÓN DE CIRCUITOS.pdf)
+- [Final Project Report I - Example 1](docs/InformeIProyectoFinal1.pdf)
+- [Final Project Report I - Example 2](docs/InformeIProyectoFinal2.pdf)
+- [Final Project Submission](docs/ProyectoFinal-Entrega.pdf)
+
+## Lectures
+
+- [Lecture 0. Course Presentation](lectures/0-Presentación.pptx)
+- [Lecture 1. Introduction to the Digital World](lectures/1-Introducción al mundo digital.pptx)
+- [Lecture 2. Combinational Systems](lectures/2-Sistemas Combinacionales.pptx)
+- [Lecture 3. Sequential Systems](lectures/3-Sistemas Secuenciales.pptx)
+- [Lecture 4. Microcontrollers](lectures/4-Microcontroladores.pptx)
+- [Lecture 5. Serial Communication](lectures/5-Comunicación Serial.pptx)
+- [Lecture 6. Analog-to-Digital Conversion](lectures/6-Conversión Análogo-Digital.pptx)
+
+## Lecture Annexes
+
+- [Annex I. Memories](lectures/AnexoI-Memorias.pptx)
+- [PCB Design and Fabrication](lectures/PCB  Presentación UNAL.pptx)
+
+## Lab Guides
+
+- [Lab I](lab-guides/Práctica I.pdf)
+- [Lab II](lab-guides/Práctica II.pdf)
+- [Lab III](lab-guides/Práctica III.pdf)
+- [Lab IV](lab-guides/Práctica IV.pdf)
+- [Lab V](lab-guides/Práctica V.pdf)
+- [Lab VI](lab-guides/Práctica VI.pdf)
+- [Lab VII](lab-guides/Práctica VII.pdf)
+- [Lab VIII](lab-guides/Práctica VIII.pdf)
+
+## Code and Projects
+
+- [Microcontroller Test Project](codes/PruebaFuncionamiento1.X.rar)
