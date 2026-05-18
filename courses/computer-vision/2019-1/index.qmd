@@ -1,0 +1,32 @@
+---
+title: "Computer Vision (Visión Artificial) 2019-1"
+---
+
+This course introduces the fundamental concepts of computer vision, including image processing, camera models, feature extraction and matching, motion detection, object tracking, and image classification, with emphasis on practical applications and computational methods.     
+ITM – Institución Universitaria @2019
+
+## General Documents
+
+- [Academic Commitment](info/CompromisoAcadémico_VisionArtificial_2019-I.docx)
+- [Official Course Program](info/Visión Artificial VAW82_2018.pdf)
+
+## Lecture Slides
+
+- [Lecture 0. Course Presentation](Clases/0-Presentación_VisualArtificial.pdf)
+- [Lecture 1. Image Processing](Clases/1-ImageProcessingCV_VisualArtificial.pdf)
+- [Lecture 2. Camera Models and Views](Clases/2-ModelosCamarasVistasCV_VisualArtificial.pdf)
+- [Lecture 3. Feature Matching](Clases/3-Acople de características.pdf)
+- [Lecture 4. Motion in Images](Clases/4-MovimientoImagenCV_VisionArtificial.pdf)
+- [Lecture 5. Object Tracking](Clases/5-SeguimientoCV_VisionArtificial.pdf)
+- [Lecture 6. Image Classification](Clases/6-ClasificaciónCV_VisionArtificial.pdf)
+
+## Workshops and Assignments
+
+- [Workshop 1. Image Processing](workshops/1_ProcesamientoImagenes_VisiónArtificial.pdf)
+- [Workshop 3. Feature Extraction and Motion Detection](workshops/3_Características_DetecciónMovimiento_VisiónArtificial.pdf)
+- [Workshop 4. Tracking](workshops/4_Tracking_VisiónArtificial.pdf)
+- [Workshop 5. Classification](workshops/5_Clasificación_VisiónArtificial.pdf)
+
+## Code and Resources
+
+- [Course Codes and Examples](codes/Codes.zip)

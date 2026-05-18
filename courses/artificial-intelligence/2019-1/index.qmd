@@ -2,7 +2,8 @@
 title: "Artificial Intelligence I 2019-1"
 ---
 
-This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling.
+This course introduces the foundations of machine learning and artificial intelligence, including supervised learning, feature extraction, linear regression, cross-validation, gradient descent optimization, and neural networks, with emphasis on practical implementation and data-driven modeling.     
+ITM – Institución Universitaria @2019
 
 ## General Documents
 

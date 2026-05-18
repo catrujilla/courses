@@ -4,14 +4,15 @@ title: "Carlos Trujillo course resources"
 
 Welcome to my course website.
 
-## Courses
+## Courses (by alphabetical order)
 
-- [Modern Physics](courses/modern-physics/)
-- Fourier Optics
-- Digital Holography
 - [Artificial Intelligence](courses/artificial-intelligence/)
+- [Computer Vision](courses/computer-vision/)
 - [Digital Electronics and Microcontrollers](courses/digital-electronics/)
+- Digital Holography
 - [Electricity and magnetism](courses/electricity-magnetism/)
+- Fourier Optics
+- [Modern Physics](courses/modern-physics/)
 
 ## Resources in each course
 
